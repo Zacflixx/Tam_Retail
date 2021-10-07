@@ -1,0 +1,1578 @@
+/* responsive media query start */
+
+@media (max-width: 1440px) {
+  
+    .home {
+        width: 100%;
+        background-size: auto 32rem;
+    }
+    .section_1 {
+        width: 100%;
+        max-width: 100%;
+        min-width: 100%;
+        height: 820px;
+        overflow-x: hidden;
+    }
+    .tamawal_Type88 {
+        margin: 0px -4.5em;
+    }
+    .right_header88 {
+        left: 50vw;
+    }
+    
+    .bg-stripes{
+        width: 80rem;
+        left: 0rem;
+      
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.9);
+        top: -3rem;
+        left: -6rem;
+    }
+    .side-contents1 {
+        position: relative;
+        top: -120px;
+       
+   
+        /* height: 100%;  */
+    }
+    .phone {
+        top: 0rem;
+        left: 40rem;
+        height: 40rem;
+    }
+    .averaging {
+     
+        font-size: 2.2rem;
+        line-height: 2.3rem;
+    }
+    .column-right1 {
+    left: -1rem;
+        
+    }
+    .column-left1 {
+        /* position: relative;
+        left: -3rem; */
+    }
+    .info{
+    
+        /* background-color: #012558; */
+    }
+    .item {
+        /* width: 38rem; */
+        height: 17rem;
+        left: 1rem;
+        top: 3rem;
+        /* transform: scaleY(1.5); 
+    transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.7);
+        top: 11rem;
+        right: -42rem;
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 10rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 10rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 10rem;
+    }
+    .see_all1 {
+        font-weight: 500;
+        left: 8rem;
+        font-size: 18px;
+    }
+    /* section 2 */
+    .section_2 {
+        position: relative;
+  
+        top: 0rem;
+    }
+    .products_fitting {
+        font-size: 2.5rem;
+        width: 80rem;
+        margin: 4rem 2rem;
+    }
+    .products_heading {
+        position: relative;
+        transform: scale(.9);
+        left: -7rem;
+     
+    }
+    .heading_wrapper{
+        width: 40rem;
+    }
+
+    /* section3 */
+    .section_3 {
+      
+    
+    }
+    .Marketplace_text1 {
+        /* pos
+        font-size: 2.5rem;
+        margin: -70rem 2rem; */
+    }
+    .text_payLater {
+        /* top: 20rem; */
+    }
+    .marketplace_results {
+        width: 90%;
+        height: auto;
+        margin: 60.54px 7vw;
+        padding: 90.81px 4%;
+    }
+    .row1 {
+        top: 4rem;
+        padding: 6%;
+    }
+    .marketplace_card {
+        transform: scale(.9);
+    }
+    .next_group {
+        margin: 1rem 0rem;
+    }
+    .next_product {
+        margin: 0px 0rem;
+    }
+    /* .see_more{
+        position: relative;
+    } */
+}
+
+@media (max-width: 1280px) {
+    .home {
+        
+        background-position: -5rem 0rem;
+        background-size: auto 30rem;
+    }
+    .section_1 {
+        height: 760px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -4.5em;
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 6rem;
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.9);
+        top: -3rem;
+        left: -7rem;
+    }
+    .side-contents1 {
+        
+    width: 103%;
+        top: -160px;
+       
+    }
+    .phone {
+        top: -1.2rem;
+        left: 53%;
+        height: 38rem;
+    }
+    .averaging {
+    
+        font-size: 1.78rem;
+       /* background-color: aqua; */
+        line-height: 2.2rem;
+    }
+    .column-right1 {
+    
+      left: -4rem;
+      width: 97%;
+       
+    }
+    .column-left1 {
+        left: -4rem;
+    }
+    .item {
+        width: 35rem;
+        height: 17rem;
+        transform: scaleY(1);
+    }
+    .apply {
+        transform: scale(.6);
+        top: 11rem;
+        right: -42rem;
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 8rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 8rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 8rem;
+    }
+    .see_all1 {
+        font-weight: 500;
+        left: 5rem;
+        font-size: 18px;
+    }
+    /* section 2 */
+    .section_2 {
+        /* height: auto; */
+    }
+    .products_fitting {
+        font-size: 2.5rem;
+        width: 80rem;
+        /* margin: 4rem 2rem; */
+    }
+    .products_heading {
+        position: relative;
+        transform: scale(.9);
+        z-index: 1;
+        /* margin: auto 15vw; */
+    }
+  
+    /* section3 */
+    .section_3 {
+        top: 16rem;
+        /* height: auto; */
+    }
+    .Marketplace_text1 {
+     
+        font-size: 2.5rem;
+        /* margin: -70rem 2rem; */
+    }
+    .text_payLater {
+        /* top: 20rem; */
+    }
+    .row1 {
+        
+        top: 7rem;
+        padding: 1%;
+    }
+    .col1 {
+        float: left;
+        width: 25%;
+        padding: 10px;
+    }
+    .marketplace_results {
+ 
+        width: 100%;
+        height: auto;
+        margin: 60.54px 0vw;
+        padding: 90.81px 4%;
+    }
+    .marketplace_card {
+        transform: scale(.85);
+    }
+}
+
+@media (max-width: 1125px) {
+    .averaging {
+    
+        font-size: 1.7rem;
+      width: 30rem;
+        line-height: 2.2rem;
+    }
+    .home{
+        background-position: -10rem 0rem;
+        background-size: auto 30rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    .section_1 {
+        height: 715px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -2rem;
+    }
+    .Business88{
+        font-size: 1rem;
+        left: -1rem;
+    }
+    .right_header {
+        left: 47vw; 
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 8rem;
+    }
+    .home {
+      overflow: hidden;
+      background-position: -4rem 0rem;
+      background-size: auto 24rem;
+    }
+    
+    .text_2 {
+        line-height: 1rem;
+    }
+    .bg-stripes {
+        width: 100rem;
+        /* height: 30rem; */
+        left: 0rem;
+        resize: cover;
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.78);
+        top: -5rem;
+        left: -10rem;
+    }
+    .side-contents1 {
+        position: relative;
+        top: -155px;
+        display: flex;
+        /* height: 100%;  */
+    }
+    .phone {
+        top: -1.2rem;
+        left: 30rem;
+        height: 32rem;
+    }
+    .typ {
+        left: 5rem;
+    }
+    .averaging {
+       
+        width: 100%;
+        position: relative;
+        line-height: 2rem;
+        font-size: 1.6rem;
+    }
+   
+    .info {
+        width: 97%;
+    }
+    .column-right1 {
+        background-color: ;
+         height: 16rem;
+        transform: scale(.9);
+        position: relative;
+        top: -6.5rem;
+        left: -2rem;
+        width: 8rem;
+    }
+    .column-left1 {
+        position: relative;
+        left: -2.6rem;
+    }
+    .item {
+        transform: scale(.85);
+        margin: -6.9rem -4.5rem;
+        /* width: 38rem;
+height: 17rem; */
+        /* transform: scaleY(1.5); 
+transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.6);
+        top: 11rem;
+        right: -42rem;
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 7rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 7rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 7rem;
+    }
+    .see_all1 {
+        font-weight: 500;
+        top: -.2rem;
+        left: 5rem;
+        font-size: 18px;
+    }
+    /* section 2 */
+    .section_2 {
+       
+        position: relative;
+        margin: -9rem 0rem;
+    }
+    .products_fitting {
+        font-size: 2rem;
+        width: 80rem;
+        top: 2rem;
+        left: -1rem;
+    }
+    .products_heading {
+        position: relative;
+        transform: scale(.8);
+        margin: auto -3rem;
+    }
+    .offer_results {
+      
+        top: 4rem;
+    }
+    .see_more{
+        top: -3rem;
+        transform: scale(.7);
+    }
+    /* section3 */
+    .section_3 {
+        top: 18rem;
+        /* height: auto; */
+    }
+    .Marketplace_text1 {
+        font-size: 2rem;
+        width: 80rem;
+        top: -11rem;
+        left: -1rem;
+    }
+    .text_payLater {
+        font-size: 1.2rem;
+        font-weight: 500;
+        top: 3.5rem;
+        left: -3rem;
+    }
+    .marketplace_heading {
+        transform: scale(.8);
+        margin: -7rem 0rem;
+    }
+    .row1 {
+        top: 6rem;
+        padding: 2%;
+    }
+    .col1 {
+        float: left;
+        width: 25%;
+        padding: 8px;
+    }
+    .marketplace_results {
+        width: 100%;
+        height: auto;
+        margin: 60.54px -20vw;
+        padding: 90.81px 0%;
+    }
+    .marketplace_card {
+        transform: scale(.7);
+    }
+    .b4 {
+        position: relative;
+        top: -2rem;
+        left: -3vw;
+        transform: scale(.75);
+    }
+}
+@media (max-width: 950px) {
+    .averaging{
+        font-size: 1.4rem;
+        width: 26rem;
+     
+    }
+    .home{
+   
+    }
+    .column-right1{
+        left: -2.4rem;
+        width: 50rem;
+    }
+}
+@media (max-width: 834px) {
+    .section_1 {
+        height: 650px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -2rem;
+    }
+    .Business88{
+        font-size: 1rem;
+        left: -1rem;
+    }
+    .right_header{
+        left: 0;
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 8rem;
+    }
+    .home {
+        background-position: -7rem 0rem;
+        background-size: auto 22rem;
+    }
+    
+    .quick-search {
+        width: 37rem;
+      
+    }
+    .text_2 {
+        line-height: 1rem;
+    }
+    .bg-stripes {
+        width: 70rem;
+        left: 0rem;
+        top: -1rem;
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.67);
+        top: -6.5rem;
+        left: -12rem;
+    }
+    .typ {
+        left: 6rem;
+    }
+    .side-contents1 {
+        position: relative;
+        top: -10px;
+        display: flex;
+        width: 52rem;
+        /* background-color: red; */
+      z-index: 0;
+    }
+   
+    .phone {
+        top: .3rem;
+        left: 22rem;
+        height: 28rem;
+    }
+    .averaging { 
+        width: 24rem;
+        position: relative;
+        line-height: 2rem;
+        font-size: 1.3rem;
+        top: .7rem;
+    }
+    .column-right1 {
+        width: auto;
+        transform: scale(.9);
+        position: relative;
+        top: -17.5rem;
+        left: -3rem;
+    }
+    .info {
+        width: 100%;
+        
+    }
+    .column-left1 {
+        top: -12rem;
+        position: relative;
+        left: -3rem;
+        z-index: auto;
+    }
+    .item {
+        top: 2.3rem;
+        transform: scale(.72);
+        margin: -9.5rem -6.5rem;
+        width: 36rem;
+        height: 17rem;
+        /* transform: scaleY(1.5); 
+transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.6);
+        top: 11rem;
+        left: -12rem;
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 6rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .see_all1 {
+        font-weight: 400;
+        left: 4rem;
+        top: -.3rem;
+        font-size: 16px;
+    }
+    /* section 2 */
+    .section_2 {
+        /* height: auto; */
+        position: relative;
+ 
+    }
+    .products_fitting {
+        font-size: 1.6rem;
+        width: 80rem;
+        top: 2rem;
+        left: -1rem;
+    }
+    .products_heading {
+        position: relative;
+        transform: scale(.65);
+        margin: auto -6rem;
+    }
+    .offer_results {
+        /* position: relative;
+        transform: scale(.55);
+        left: -45vw;
+        top: -18rem; */
+    }
+    .offer_wrapper {
+        width: 71rem;
+    }
+    .see_more {
+        /* margin: 2rem 55vw; */
+    }
+    /* section3 */
+    .section_3 {
+        top: 26rem;
+       width: 100%;
+      margin-bottom:10rem;
+    }
+    .Marketplace_text1 {
+        font-size: 2rem;
+        width: 80rem;
+        top: -11rem;
+        left: -1rem;
+    }
+    .text_payLater {
+        font-size: 1.1rem;
+        font-weight: 500;
+        top: 3.5rem;
+        left: -3rem;
+    }
+    .marketplace_heading {
+        transform: scale(.7);
+        margin: -7rem -30rem;
+        padding: 2rem;
+    }
+    .marketplace_results {
+        
+        position: relative;
+        width: 90%;
+        height: auto;
+        margin: 60.54px -3vw;
+        padding: 10%;
+    }
+    .marketplace_card {
+        transform: scale(.8);
+    }
+    .row1 {
+      
+        top: -5rem;
+        left: -9rem;
+        padding: 20%;
+    }
+    .col1 {
+        float: left;
+        width: 33%;
+        padding: 0px 0% 0px 0px;
+    }
+    .b4 {
+        position: relative;
+        top: -0rem;
+        left: 3vw;
+        transform: scale(.6);
+    }
+}
+
+@media (max-width: 768px) {
+    .sticky-top2{
+        margin-bottom: -4rem;
+    }
+    .section_1 {
+        height: 1180px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -2rem;
+    }
+    .Business88{
+        font-size: 1rem;
+        left: -1rem;
+    }
+    .right_header88 {
+        left: 57vw;
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 8rem;
+    }
+    .home {
+        background-position: 0rem -4rem;
+        background-size: auto 34rem;
+        height: auto;
+    }
+  
+    .quick-search {
+        width: 37rem;
+    }
+    .text_2 {
+        line-height: 1rem;
+    }
+    .text-3 {
+        width: 90rem;
+    }
+    .bg-stripes {
+        width: 46rem;
+        left: 0rem;
+        top: -3rem;
+    }
+    .header_content {
+        transform: scale(1);
+        top: -1.5rem;
+        left: -4rem;
+    }
+    .typ {
+        left: 6rem;
+    }
+    .side-contents1 {
+    
+     width: 60rem;
+        top: 6rem;
+        padding: 0px;
+        /* background-color: rebeccapurple; */
+  
+       
+    }
+    .phone {
+        opacity: 0;
+        top: 1.5rem;
+        left: 22rem;
+        height: 24rem;
+    }
+    .averaging {
+        position: relative;
+        width: 30rem;
+        position: relative;
+        line-height: 2rem;
+        font-size: 1.6rem;
+        top: .7rem;
+        left: 0rem;
+    }
+    .column-right1 {
+        flex: 100%;
+        /* background-color: red; */
+        position: relative;
+     
+        transform: scale(1.4);
+        margin: -1.5rem 0rem;
+        top: -12.2rem;
+        left: -24rem;
+    }
+    .info_wrapper{
+        /* background-color: rebeccapurple;
+        float: center;
+        margin: 0px auto;
+        width: 20rem; */
+    }
+
+    .info {
+        justify-content: center;
+        width: 100%;
+    }
+    .column-left1 { flex: 100%;
+        position: relative;
+        top: 14rem;
+        left: 5rem;
+        width: 100%;
+        height: 200rem;
+    }
+    .item {
+        transform: scale(1.02);
+        margin: -12rem -7.5rem;
+        width: 36rem;
+        /* height: 200rem; */
+        /* transform: scaleY(1.5); 
+transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.6);
+        top: 11rem;
+        left: -12rem;
+    }
+    .promo_cards {
+        top: 2rem;
+        left: 4.7rem;
+        transform: scale(1.2);
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 6rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .see_all1 {
+        font-weight: 400;
+        left: 4rem;
+        top: .4rem;
+        font-size: 14px;
+    }
+    /* section 2 */
+    .section_2 {
+        /* height: auto; */height: auto;
+        position: relative;
+        /* margin: -20rem 0rem; */
+    }
+    .products_fitting {
+        font-size: 1.6rem;
+        width: 80rem;
+        top: 2rem;
+        left: -1rem;
+    }
+    .products_heading {
+        position: relative;
+        transform: scale(.6);
+        margin: auto -8rem;
+    }
+    .offer_results {
+        /* position: relative;
+        transform: scale(.5);
+        left: -52vw;
+        top: -21rem; */
+    }
+    .offer_wrapper {
+        /* width: 71rem; */
+    }
+    .see_more {
+        /* margin: 2rem 55vw; */
+    }
+    /* section3 */
+    .section_3 {
+        top: 26rem;
+        line-height: ;
+    }
+    .Marketplace_text1 {
+        font-size: 1.6rem;
+        width: 80rem;
+        top: -11rem;
+        left: -1rem;
+    }
+    .text_payLater {
+        font-size: .9rem;
+        font-weight: 500;
+        top: 3.1rem;
+        left: -3rem;
+    }
+    .marketplace_button {
+        margin: .3rem;
+    }
+    .marketplace_heading {
+        width: 100%;
+        transform: scale(.7);
+        margin: -12rem 0rem;
+    }
+    .marketplace_results {
+        position: relative;
+        width: 90%;
+        height: auto;
+        margin: 60.54px -3vw;
+        padding: 10%;
+    }
+    .marketplace_card {
+        transform: scale(.7);
+    }
+    .row1 {
+        top: 1rem;
+        /* width: 80%;
+        top: 8rem;
+        left: -2rem;
+        padding: 0%; */
+    }
+    .col1 {
+        /* float: left;
+        width: 26%;
+        padding: 0px 0% 0px 0px; */
+    }
+    .b4 {
+        /* position: relative;
+        top: -2rem;
+        left: -16vw;
+        transform: scale(.6); */
+    }
+}
+
+@media (max-width: 600px) {
+    .section_1 {
+        height: 1000px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -2rem;
+    }
+    .Business88{
+        font-size: 1rem;
+        left: -1rem;
+    }
+    .right_header88 {
+        left: 57vw;
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 8rem;
+    }
+    .home {
+    
+        background-position: 0rem -6.5rem;
+        background-size: auto 34rem;
+    }
+    .section_1 {
+        height: 1030px;
+    }
+    /* .quick-search {s
+        width: 37rem;
+    } */
+    .text_2 {
+        line-height: 1rem;
+    }
+    .bg-stripes {
+        width: 46rem;
+        left: 0rem;
+        top: -3rem;
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.8);
+        top: -3.8rem;
+        left: -8rem;
+    }
+    .quick-search {
+        top: .6rem;
+        left: 1.6rem;
+        transform: scale(1.06);
+    }
+    .text-2 {}
+    .text-3 {
+        position: relative;
+        width: 60rem;
+    }
+    .typ {
+        left: 6rem;
+    }
+    .side-contents1 {
+        width: 60rem;
+        top: 6rem;
+        left: -1rem;
+        padding: 0px;
+        /* background-color: rebeccapurple; */
+  
+    }
+    .phone {
+        top: .5rem;
+        left: 15rem;
+        height: 28rem;
+        opacity: 0;
+    }
+    .averaging {
+    
+        width: 25rem;
+        position: relative;
+        line-height: 1.6rem;
+        font-size: 1.33rem;
+        top: .7rem;
+        left: 0rem;
+    }
+    .column-right1 {
+        transform: scale(1.4);
+        margin: -1.5rem 0rem;
+        top: -14.5rem;
+        left: -24rem;
+    }
+    .info {
+        width: 100%;
+    }
+    .column-left1 {
+        top: 14rem;
+        left: 5rem;
+        width: 100%;
+        height: 200rem;
+    }
+    .item {
+        transform: scale(.85);
+        margin: -19rem -10rem;
+        width: 36rem;
+        /* transform: scaleY(1.5); 
+transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.6);
+        top: 11rem;
+        left: -12rem;
+    }
+    .promo_cards {
+        top: 1.3rem;
+        left: .2rem;
+        transform: scale(1);
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 6rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .see_all1 {
+        font-weight: 400;
+        left: 3.2rem;
+        top: -.2rem;
+        font-size: 10px;
+    }
+    /* section 2 */
+    .section_2 {
+    
+        position: relative;
+      height: auto;
+    }
+    .products_fitting {
+        font-size: 1.6rem;
+        width: 100%;
+        height: 4rem;
+        top: 2rem;
+        left: -7%;
+        text-align: center;
+        text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+    }
+    .heading_wrapper1{
+        position: relative;
+        /* background-color: rebeccapurple; */
+        margin: 0px auto;
+        width: 26rem;
+        height: 13rem;
+    }
+    .products_heading {
+        width: 60rem;
+        transform: scale(.55); 
+       margin: -20px -7rem;
+    }  
+    .offer_results {
+     
+        top: 2rem; 
+    }
+    .offer_wrapper {
+        /* width: 71rem; */
+    }
+    .see_more {
+        /* transform: scale(1.5);
+        margin: 2rem 77vw; */
+    }
+    /* section3 */
+    .section_3 {
+        margin-top: 0rem;
+        height: auto;
+        margin-bottom: 24rem;
+    }
+    .Marketplace_text1 {
+        font-size: 1.8rem;
+        width: 100%;
+        text-align: center;
+        top: -11rem;
+        left: -2rem;
+        text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+    }
+    .text_payLater {
+        font-size: .9rem;
+        font-weight: 600;
+        width: 100%;
+        text-align: center;
+        top: 3.3rem;
+        left: -13vw;
+    }
+    .marketplace_button {
+        margin: .3rem;
+    }
+    .marketplace_heading {
+        width: 45rem;
+        transform: scale(.7);
+        margin: -8rem -6rem;
+    }
+    .marketplace_results {
+        position: relative;
+        width: 90%;
+        height: auto;
+        margin: 60.54px -3vw;
+        padding: 10%;
+    }
+    .marketplace_card {
+        transform: scale(.7);
+    }
+    .row1 {
+        left: -6rem;
+        padding: 20%;
+        top: -1rem;
+    }
+    .col1 {
+      justify-content: center;
+        width: 50%;
+        padding: 0px 0% 0px 0px;
+    }
+    .b4 {
+        /* position: relative;
+        top: -2rem;
+        left: -16vw;
+        transform: scale(1); */
+    }
+}
+
+@media (max-width: 414px) {
+    .section_1 {
+        height: 840px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -2rem;
+    }
+    .Business88{
+        font-size: 1rem;
+        left: -1rem;
+    }
+    .right_header88 {
+        left: 57vw;
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 8rem;
+    }
+    .home {
+        background-position: 0rem -10rem;
+        background-size: auto 34rem;
+    }
+  
+    .sticky-top2{
+        margin-bottom: -7rem;
+    }
+    .text_2 {
+        line-height: 1rem;
+    }
+    .bg-stripes {
+        width: 46rem;
+        left: 0rem;
+        top: -3rem;
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.58);
+        top: -4.0rem;
+        left: -9rem;
+    }
+    .quick-search {
+        top: .2rem;
+        left: 10%;
+        transform: scale(1.1);
+    }
+    .text-2 {}
+    .text-3 {
+        position: relative;
+        width: 90rem;
+    }
+    .typ {
+        left: 6rem;
+    }
+    .side-contents1 {
+        width: 60rem;
+        top: 6rem;
+        left: -1rem;
+        padding: 0px;
+        /* background-color: rebeccapurple; */
+    }
+    .phone {
+        top: .5rem;
+        left: 15rem;
+        height: 28rem;
+        opacity: 0;
+    }
+    .averaging {
+        /* height: 20rem; */
+        width: 16rem;
+        position: relative;
+        line-height: 1.2rem;
+        font-size: .9rem;
+        top: .7rem;
+        left: 0rem;
+    }
+    .column-right1 {
+        transform: scale(1.4);
+        margin: -1.5rem 0rem;
+        top: -18rem;
+        left: -24rem;
+    }
+    .info {
+        width: 100%;
+    }
+    .column-left1 {
+        top: 5rem;
+        left: -0rem;
+        width: 100%;
+        height: 200rem;
+    }
+    .item {
+        transform: scale(.6);
+        margin: -21rem -10rem;
+        height: 18.5rem;
+        /* transform: scaleY(1.5); 
+transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.6);
+        top: 13rem;
+        left: -11rem;
+    }
+    .promo_cards {
+        top: .3rem;
+        left: -6.8rem;
+        transform: scale(.7);
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 6rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .see_all1 {
+        font-weight: 400;
+        left: 1.6rem;
+        top: -1.2rem;
+        font-size: 10px;
+    }
+    /* section 2 */
+    .section_2 {
+    
+        position: relative;
+      height: auto;
+    }
+    .products_fitting {
+        font-size: 1.3rem;
+        width: 100%;
+        height: 4rem;
+        top: 2rem;
+        left: -2rem;
+        text-align: center;
+        text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+    }
+    .heading_wrapper1{
+        position: relative;
+  
+        margin: 0px auto;
+        width: 19rem;
+        height: 13rem;
+    }
+    .products_heading {
+        width: 60rem;
+        top: -3rem;
+        transform: scale(.4); 
+       margin: -20px -11.3rem;
+    }  
+    .offer_results {
+     
+        top: 0rem; 
+    }
+    .offer_wrapper {
+        /* width: 71rem; */
+    }
+    .see_more {
+        transform: scale(.5);
+
+    }
+    /* section3 */
+    .section_3 {
+        top: 22rem;
+        height: auto;
+        margin-bottom: 24rem;
+    }
+    .Marketplace_text1 {
+        font-size: 1.8rem;
+        width: 100%;
+        text-align: center;
+        top: -11rem;
+        left: -2rem;
+        text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+    }
+    .text_payLater {
+        font-size: .9rem;
+        font-weight: 600;
+        width: 100%;
+        text-align: center;
+        top: 3.3rem;
+        left: -13vw;
+    }
+    .marketplace_button {
+        margin: .3rem;
+    }
+    .marketplace_heading {
+        width: 45rem;
+        transform: scale(.55);
+        margin: -8rem -10rem;
+    }
+    .marketplace_results {
+        position: relative;
+        width: 90%;
+        height: auto;
+        margin: 60.54px -3vw;
+        padding: 10%;
+    }
+    .marketplace_card {
+        transform: scale(.55);
+    }
+    .row1 {
+        left: -7rem;
+        padding: 20%;
+        top: -1rem;
+    }
+    .col1 {
+      justify-content: center;
+        width: 50%;
+        padding: 0px 0% -90px 0px;
+        margin-bottom: -7rem;
+    }
+    .b4 { 
+        top: 6rem;
+        left:3em;
+        /* transform: scale(.5);
+       
+        margin: 0px auto; */
+    }
+}
+@media (max-width: 375px) {
+    .section_1 {
+        height: 786px;
+    }
+    .tamawal_Type88 {
+        margin: 0px -2rem;
+    }
+    .Business88{
+        font-size: 1rem;
+        left: -1rem;
+    }
+    .right_header88 {
+        left: 57vw;
+    }
+    .bg-inner88{
+        margin-top: 0rem;
+        right: 17rem;
+        height: 8rem;
+    }
+    .home {
+        background-position: 0rem -13rem;
+        background-size: auto 34rem;
+    }
+  
+    /* .quick-search {
+        width: 37rem;
+    } */
+    .text_2 {
+        line-height: 1rem;
+    }
+    .bg-stripes {
+        width: 46rem;
+        left: 0rem;
+        top: -3rem;
+    }
+    .header_content {
+        position: relative;
+        transform: scale(.52);
+        top: -6.0rem;
+        left: -9rem;
+    }
+    .quick-search {
+        top: .2rem;
+        left: 10%;
+        transform: scale(1.1);
+    }
+    .text-2 {}
+    .text-3 {
+        position: relative;
+        width: 90rem;
+    }
+    .typ {
+        left: 6rem;
+    }
+    .side-contents1 {
+        width: 60rem;
+        top: 2rem;
+        left: -1.4rem;
+        padding: 0px;
+        /* background-color: rebeccapurple; */
+    }
+    .phone {
+        top: .5rem;
+        left: 15rem;
+        height: 28rem;
+        opacity: 0;
+    }
+    .averaging {
+        /* height: 20rem; */
+        width: 16rem;
+        position: relative;
+        line-height: 1.2rem;
+        font-size: .85rem;
+        top: .7rem;
+        left: 0rem;
+    }
+    .column-right1 {
+        transform: scale(1.35);
+        margin: -1.5rem 0rem;
+        top: -18rem;
+        left: -25rem;
+    }
+    .info {
+        width: 100%;
+    }
+    .column-left1 {
+        top: 5rem;
+        left: -0rem;
+        width: 100%;
+        height: 200rem;
+    }
+    .item {
+        transform: scale(.57);
+        margin: -20.3rem -10.6rem;
+        height: 18.5rem;
+        /* transform: scaleY(1.5); 
+transform: scaleY(1);  */
+    }
+    .apply {
+        transform: scale(.6);
+        top: 13rem;
+        left: -11rem;
+    }
+    .promo_cards {
+        top: .3rem;
+        left: -6.8rem;
+        transform: scale(.7);
+    }
+    .creditCard1 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .creditCard2 {
+        margin: 0px -3rem;
+        height: 6rem;
+    }
+    .creditCard3 {
+        margin: 0px 0px;
+        height: 6rem;
+    }
+    .see_all1 {
+        font-weight: 400;
+        left: 1.6rem;
+        top: -1.2rem;
+        font-size: 10px;
+    }
+    /* section 2 */
+    .section_2 {
+    
+        position: relative;
+      height: auto;
+    }
+    .products_fitting {
+        font-size: 1.3rem;
+        width: 100%;
+        height: 4rem;
+        top: 2rem;
+        left: -2rem;
+        text-align: center;
+        text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+    }
+    .heading_wrapper1{
+        position: relative;
+  
+        margin: 0px auto;
+        width: 19rem;
+        height: 13rem;
+    }
+    .products_heading {
+        width: 60rem;
+        top: -3rem;
+        transform: scale(.4); 
+       margin: -20px -11.3rem;
+    }  
+    .offer_results {
+     
+        top: -1rem; 
+    }
+    .offer_wrapper {
+        /* width: 71rem; */
+    }
+    .see_more {
+        transform: scale(.5);
+
+    }
+    /* section3 */
+    .section_3 {
+        top: 22rem;
+        height: auto;
+        margin-bottom: 24rem;
+    }
+    .Marketplace_text1 {
+        font-size: 1.8rem;
+        width: 100%;
+        text-align: center;
+        top: -11rem;
+        left: -2rem;
+        text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+    }
+    .text_payLater {
+        font-size: .9rem;
+        font-weight: 600;
+        width: 100%;
+        text-align: center;
+        top: 3.3rem;
+        left: -13vw;
+    }
+    .marketplace_button {
+        margin: .3rem;
+    }
+    .marketplace_heading {
+        width: 45rem;
+        transform: scale(.55);
+        margin: -8rem -10rem;
+    }
+    .marketplace_results {
+        position: relative;
+        width: 90%;
+        top: -9rem;
+        height: auto;
+        margin: 50.54px -3vw;
+        padding: 10%;
+    }
+    .marketplace_card {
+        transform: scale(.55);
+    }
+    .row1 {
+        left: -7rem;
+        padding: 20%;
+        top: -2rem;
+    }
+    .col1 {
+      justify-content: center;
+        width: 50%;
+        padding: 0px 0% -90px 0px;
+        margin-bottom: -7rem;
+    }
+    .b4 { 
+        top: 6rem;
+        left:2.7em;
+        /* transform: scale(.5);
+       
+        margin: 0px auto; */
+    }
+}

@@ -1,0 +1,2514 @@
+/* responsive media query start */
+@media (max-width: 1440px) {
+    .section1 {
+        height: 740px;
+       
+    }
+    .Page_title{
+        /* top: 5.5vw; */
+        font-size:2.5rem; 
+         /* font-weight: 500; */
+        /* left: 1rem; */
+      }
+      .top_section_faq{
+        height: 240px;
+    
+      }
+    .tamawal_Type {
+        margin: 0px -4em;
+    }
+    .nav_shift{
+        position: relative;
+        right: 5vw;
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: -2rem;
+        right: 17rem;
+        height: 130px;
+    }
+    .right_header {
+        left: 37rem;
+        right: -18em;
+       
+    }
+    .illus {
+        margin: 50px 740px;
+        height: 35rem;
+    }
+    .left-section {
+        margin: 100px 30px;
+    }
+    h2 {
+        font-size: 80px;
+        line-height: 80px;
+        letter-spacing: -2px;
+        /* background-color: red; */
+    }
+    .text_1 {
+        top: 25px;
+    }
+    p2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .text_2 {
+        margin: 20px 4px;
+        width: 800px;
+    }
+    .button2 {
+        top: 100px;
+        border-radius: 12px;
+        width: 220px;
+        height: 50px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 15px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .averaging {
+        font-size: 1.8rem;
+        top: 120px;
+        width: 500px;
+        line-height: 2.2rem;
+    }
+    .quicksearch{
+        transform: scale(.8);
+        top: 6.5rem;
+        left: -5rem;
+    }
+
+    /* section 2 */
+    .section2 {
+        height: 740px;
+    }
+    .virtual {
+        margin: 0px 0px;
+        top: 40px;
+        text-align: center;
+        font-size: 40px;
+        color: #014497;
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 20px;
+        top: 60px;
+    }
+    .timeline {
+        position: relative;
+        margin: 200px 300px;
+        height: 70px;
+     
+    }
+    .card_flex {
+        position: relative;
+        margin: 5px 280px;
+        display: flex; 
+    }
+    .why_text {
+        margin: -330px 20px;
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+    .set1 {
+        position: relative;
+        top: 8rem;
+        height: 280px;
+        margin-right: -20px;
+    }
+    .set2 {
+        position: relative;
+        top: 8rem;
+        height: 280px;
+    }
+    /* section 3 */
+    .section3 {
+        background: linear-gradient(252.43deg, #134491 9.89%, #1A73CB 96.03%);
+        height: 900px;
+        padding: 50px 30px;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: -20px 50px;
+        font-style: bold;
+        font-weight: 800;
+        font-size: 45px;
+        line-height: 51px;
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 50px 50px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 700px;
+        margin: -20px 150px;
+    }
+    .platform {
+        position: absolute;
+        height: 200px;
+        margin: -30px 20px;
+    }
+    /* section4 */
+    .section4 {
+        height: 600px;
+    }
+    
+    .highlight_text {
+        position: relative;
+        top: 40px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 61px;
+        /* identical to box height */
+        text-align: center;
+        color: #15549A;
+    }
+    
+    .loan_today {
+        position: relative;
+        color: white;
+        font-weight: normal;
+        font-size: 200;
+        font-family: Poppins;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        letter-spacing: .2px;
+    }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+    .highlights_new{
+        position: relative;
+    width: 70rem;
+    margin: 0px auto;
+    top: 5rem;
+    }
+    .calculator1_new{
+        position: relative;
+        top: 2.5rem;
+        left: 8rem;
+        
+        transform: scale(1.25);
+        
+        }
+    .promo1_new{
+        position: relative;
+    
+    top: -20.8rem;
+    left: 40rem;
+    transform: scale(1.05);
+    }
+        .lead-calculator{
+            height: 21.0rem;
+        }
+
+
+
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        margin: 20px 0px;
+        line-height: 25px;
+        font-size: 17px;
+    }
+}
+@media (max-width: 1280px) {
+    .nav_shift{
+        right: 14vw;
+    }
+    .section1 {
+        height: 700px;
+    }
+    .tamawal_Type {
+        transform: scale(.85);
+     left: 9rem;
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: -3rem;
+        right: 17rem;
+        height: 10.5rem;
+    }
+    .illus {
+        margin: 45px 55%;
+        height: 33rem;
+    }
+    .left-section {
+        margin: 70px 20px;
+    }
+    h2 {
+        font-size: 75px;
+        line-height: 80px;
+        letter-spacing: -2px;
+        /* background-color: yellow; */
+    }
+    .text_1 {
+        top: 25px;
+    }
+    p2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .text_2 {
+        margin:30px 3px;
+        width: 800px;
+    }
+    .button2 {
+        top: 100px;
+        border-radius: 12px;
+        width: 220px;
+        height: 50px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 15px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .averaging {
+        top: 120px;
+        width: 500px;
+        font-size: 1.8rem;
+    }
+    .quicksearch{
+        transform: scale(.76);
+        top: 6.5rem;
+        left: -6.3rem;
+    }
+    /* section 2 */
+    .section2 {
+        height: 660px;
+    }
+    .virtual {
+        margin: 0px 0px;
+        top: 30px;
+        text-align: center;
+        font-size: 40px;
+        color: #014497;
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 20px;
+        top: 50px;
+    }
+    .timeline {
+        position: relative;
+        margin: 100px 300px;
+        height: 70px;
+    }
+    .card_flex {
+        position: relative;
+        margin: 3rem 280px;
+        display: flex;
+    }
+    .why_text {
+       font-size: 2.8rem;
+       margin: -370px 20px;
+        line-height: 3rem;
+     
+    }
+    .set1 {
+        position: relative;
+        top: 4rem;
+        height: 280px;
+        margin-right: -20px;
+    }
+    .set2 { position: relative;
+        top: 4rem;
+        height: 280px;
+    }
+    /* section 3 */
+    .section3 {
+        background: linear-gradient(252.43deg, #134491 9.89%, #1A73CB 96.03%);
+        height: 900px;
+        padding: 30px 0rem;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: -20px 50px;
+        font-size: 45px;
+        line-height: 51px;
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 50px 50px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        position: relative;
+        height: 700px;
+        margin: -20px 150px;
+        right: 4rem;
+    }
+    .platform {
+        position: absolute;
+        height: 200px;
+        margin: -30px 20px;
+    }
+    /* section4 */
+    .section4 {
+        height: 600px;
+    }
+   
+    .highlight_text {
+        position: relative;
+        top: 40px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 61px;
+        /* identical to box height */
+        text-align: center;
+        color: #15549A;
+    }
+  
+        .lead-calculator{
+            height: 21.0rem;
+        }
+        .highlights_new{
+            position: relative;
+        width: 60rem;
+        margin: 0px auto;
+        top: 5rem;
+        }
+        .calculator1_new{
+            position: relative;
+            top: 2.5rem;
+            left: 4rem;
+            
+            transform: scale(1.18);
+            
+            }
+        .promo1_new{
+            position: relative;
+        
+        top: -20.7rem;
+        left: 30rem;
+        transform: scale(.99);
+        }
+    .loan_today {
+        position: relative;
+        color: white;
+        font-weight: normal;
+        font-size: 200;
+        font-family: Poppins;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        letter-spacing: .2px;
+    }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        margin: 20px 0px;
+        line-height: 25px;
+        font-size: 17px;
+    }
+}
+@media (max-width: 1200px){
+    .tamawal_Type {
+        transform: scale(.85);
+     left: 8rem;
+    }
+    h2{
+        /* background-color:burlywood ; */
+        
+    
+    }
+}
+@media (max-width: 1024px) {
+    .section1 {
+        height: 660px;
+    }
+    .tamawal_Type {
+        left: 0px;
+        margin: -8px 4rem;
+        transform: scale(.9);
+      
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .start{
+        position: relative;
+padding-top: 0rem;
+    }
+    .nav_shift{
+        transform: scale(.9);
+        right: 12vw;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: -3rem;
+        right: 7rem;
+        height: 12em;
+    }
+    .illus {
+        margin: 30px 520px;
+        height: 450px;
+    }
+    .left-section {
+        margin: 80px 23px;
+    }
+    h2 {
+        font-size: 62px;
+        line-height: 70px;
+        letter-spacing: -2px;
+        /* background-color: green; */
+    }
+    .text_1 {
+        top: 20px;
+    }
+    p2 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .text_2 {
+        margin: 20px 0px;
+        width: 40rem;
+    }
+    .button2 {
+        top: 80px;
+        border-radius: 12px;
+        width: 240px;
+        height: 50px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 15px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 22px;
+      
+        line-height: 34px;
+    }
+    .averaging {
+        font-size: 1.6rem;
+        top: 110px;
+        width: 30rem;
+        line-height: 1.9rem;
+    }
+    .quicksearch{
+        transform: scale(.7);
+        top: 5rem;
+        left: -8rem;
+    }
+    /* section 2 */
+    .section2 {
+        height: 550px;
+    }
+    .virtual {
+        margin: 0px 0px;
+        top: 40px;
+        text-align: center;
+        font-size: 34px;
+        color: #014497;
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 20px;
+        top: 50px;
+    }
+    .timeline {
+        position: relative;
+        margin: 100px 230px;
+        height: 55px;
+    }
+    .card_flex {
+        position: relative;
+        margin: 3rem 200px;
+        display: flex;
+    }
+    .why_text {
+        width: 221px;
+        margin: -380px 8px;
+        font-family: poppins;
+        font-style: bold;
+        font-size: 34px;
+        line-height: 40px;
+        text-align: center;
+        color: #014497;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .set1 {
+        top: 0rem;
+        height: 230px;
+        margin-right: -20px;
+    }
+    .set2 {  top: 0rem;
+        height: 230px;
+    }
+    /* section 3 */
+    .section3 {
+        height: 680px;  background-color: darkorange;
+        padding: 20px 0rem;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: -20px 50px;
+        font-weight: 550;
+        font-size: 32px;
+        line-height: 51px;
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 50px 40px;
+        font-size: 14px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 550px;
+        margin: -80px 150px;
+        right: 8vw;
+    }
+    .platform {
+        position: absolute;
+        height: 140px;
+        margin: -50px 20px;
+    }
+    /* section4 */
+    .section4 {
+        height: 580px;
+    }
+    
+    .highlight_text {
+        position: relative;
+        top: 40px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 61px;
+        /* identical to box height */
+        text-align: center;
+        color: #15549A;
+    }
+  
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+    
+        .lead-calculator{
+            height: 21.0rem;
+        }
+        .highlights_new{
+            position: relative;
+        width: 50rem;
+        margin: 0px auto;
+        top: 5rem;
+        }
+        .calculator1_new{
+            position: relative;
+            top: 2.5rem;
+            left: -1.6rem;
+            
+            transform: scale(.97);
+            
+            }
+        .promo1_new{
+            position: relative;
+        
+        top: -20.7rem;
+        left: 24em;
+        transform: scale(.81);
+        }
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        margin: 20px 0px;
+        line-height: 25px;
+        font-size: 14px;
+    }
+
+
+    .quick_opt{
+     font-weight: 400;
+     height: 1.7rem;
+ 
+     top: -.4rem;
+     padding-top: .1rem;
+     width: 100%;
+    
+    }
+}
+
+
+@media (max-width: 990px) {
+    .section1{
+        position: relative;
+     height: 590px;
+    }
+.navbar{
+    position: relative;
+    /* background-color: green; */
+    width: 100%;
+}
+.nav_shift{
+    position: relative;
+    right: 0vw;
+}
+.right_header {
+    position: relative;
+    top: 0;
+    left: 0;
+
+    width: 30rem;
+}
+.bg-stripes{
+    opacity: 0;
+}
+.start{
+    position: relative;
+  top: -5rem;
+  right: 2vw;
+}
+.tamawal_Type {
+ left: -8rem;
+    transform: scale(.9);
+}
+
+.far2 {
+    margin: 0px 45rem;
+}
+.bg-stripes {
+    margin-top: -3rem;
+    right: 7rem;
+    height: 12em;
+}
+.illus {
+    margin: 45px 0px;
+    right: -3rem;
+    left: 50%;
+    height: 32em;
+}
+.left-section {
+    margin: 80px 27px;
+}
+h2 {
+    font-size: 57px;
+    line-height: 70px;
+    letter-spacing: -2px;
+    /* background-color: maroon; */
+}
+.text_1 {
+    top: 25px;
+}
+p2 {
+    font-size: 15px;
+    line-height: 24px;
+}
+.text_2 {
+    margin: 20px 0px;
+    width: 50rem;
+}
+.button2 {
+    top: 70px;
+    border-radius: 12px;
+    width: 240px;
+    height: 50px;
+    border-width: 0;
+}
+.btn_text {
+    font-size: 15px;
+    line-height: 17px;
+}
+h3 {
+    font-size: 22px;
+    line-height: 34px;
+}
+.averaging {
+    top: 100px;
+    width: 31rem;
+    line-height: 2rem;
+}
+.quicksearch{
+    transform: scale(.68);
+    top: 5rem;
+    left: -8.4rem;
+}
+/* section 2 */
+.section2 {
+    height: 600px;
+    padding-top: -4rem;
+}
+.virtual {
+    margin: 0px 0px;
+    top: 20px;
+    text-align: center;
+    font-size: 33px;
+    font-weight: 700;
+    color: #014497;
+}
+.text_give {
+    position: relative;
+    color: #014497;
+    text-align: center;font-weight: 500;
+    font-size: 20px;
+    top: 30px;width: 100%;
+}
+.timeline {
+    position: relative;
+    margin: 80px 230px;
+    height: 55px;
+}
+.card_flex {
+    position: relative;
+    margin: 4rem 200px;
+    display: flex;
+}
+.why_text {
+    width: 221px;
+    margin: -280px 8px;
+    font-style: bold;
+    font-weight: 1800;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    color: #014497;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.set1 {
+    height: 230px;
+    margin-right: -20px;
+}
+.set2 {
+    height: 230px;
+}
+/* section 3 */
+.section3 {
+    position: relative;
+    height: 650px;
+    padding: 0px 0px;
+    /* top: -9rem; */
+}
+.work_text {
+    /* The simplest way to */
+    position: relative;
+    margin: -20px 50px;
+    font-weight: 550;
+    font-size: 32px;
+    line-height: 51px;
+    text-align: left;
+    color: #F8FBFF;
+}
+.text_get_started {
+    position: relative;
+    width: 100%;
+    margin: 50px 40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    /* or 142% */
+    text-align: left;
+    color: #F8FBFF;
+}
+.how_work {
+    position: relative;
+    height: 550px;
+    margin: -80px 150px;
+    right: 4rem;
+}
+.platform {
+    position: absolute;
+    height: 140px;
+    margin: -50px 20px;
+}
+/* section4 */
+.section4 {
+    height: 560px;
+}
+
+.highlight_text {
+    position: relative;
+    top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 61px;
+    /* identical to box height */
+    text-align: center;
+    color: #15549A;
+}
+
+.highlights_new{
+    position: relative;
+width: 50rem;
+margin: 0px auto;
+top: 5rem;
+}
+.calculator1_new{
+    position: relative;
+    top: 2.5rem;
+    left: -1.6rem;
+    
+    transform: scale(.93);
+    
+    }
+.promo1_new{
+    position: relative;
+
+top: -20.7rem;
+left: 23.2em;
+transform: scale(.78);
+}
+.loan_today {
+    position: relative;
+    color: white;
+    font-weight: normal;
+    font-size: 200;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: .2px;
+}
+.btn-sm {
+    margin: 20px 0px;
+    border-radius: 8px;
+    height: 32px;
+    width: 50%;
+}
+
+
+.pg22 {
+    position: relative;
+    top: -70px;
+}
+.get_best {
+    margin: 20px 0px;
+    line-height: 25px;
+    font-size: 14px;
+}
+}
+
+/* @media (max-width: 991px){
+    .tamawal_Type{
+        position: relative;
+        margin: 0px -4.5em;
+    }
+ 
+    .far1{
+
+        position: absolute;
+            margin: 0px 35rem;
+            color: white;
+    }
+    .far2{
+    
+        position: absolute;
+            margin: 0px 45rem;
+    }
+
+
+    .collapsed{
+background-color: red;
+    }
+} */
+@media (max-width: 834px) {
+    
+    
+    .section1 {
+        height: 500px;
+        
+        padding-left: .8rem;
+    }
+    .tamawal_Type {
+        margin: 0px 6vw;
+        /* background-color: red; */
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: 0rem;
+        right: 7rem;
+        height: 9rem;
+    }
+    .illus {
+        margin: 70px 0px;
+        right: -3rem;
+        left: 50%;
+        height: 26em;;
+    }
+    .left-section {
+        margin: 100px 20px;
+    }
+    h2 {
+        font-size: 52px;
+        line-height: 30px;
+        letter-spacing: -2px;
+        /* background-color: darkolivegreen; */
+    }
+    .text_1 {
+        top: 25px;
+    }
+    p2 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .text_2 {
+        margin: 2.6rem 0px;
+    width: 50rem;
+    }
+    .button2 {
+        top: 5.3rem;
+        border-radius: 8px;
+        width: 220px;
+        height: 45px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .averaging {
+        font-size: 1.4rem;
+        top: 6.4rem;
+        line-height: 1.7rem;
+        width: 25rem;
+    }
+    .quicksearch{
+        transform: scale(.56);
+        top: 3.5rem;
+        left: -11.8rem;
+    }
+
+    /* section 2 */
+    .section2 {
+        height: 460px;
+    }
+    .virtual {
+        margin: 0px 0px;
+        top: 20px;
+        left: 2rem;
+        text-align: center;
+        font-size: 30px;
+        width: 730px;
+        line-height: 40px;
+        color: #014497;
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 15px;
+        top: 30px;
+    }
+    .timeline {
+        position: relative;
+        margin: 30px 170px;
+        height: 45px;
+    }
+    .card_flex {
+        position: relative;
+        margin: 90px 150px;
+        display: flex;
+    }
+    .why_text {
+        width: 101px;
+        margin: -340px 28px;
+        font-size: 23px;
+        font-weight: 600;
+        line-height: 25px;
+        text-align: center;
+        color: #0c53aa;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.19);
+    }
+    .set1 {
+        top: -2rem;
+        height: 190px;
+        margin-right: -20px;
+    }
+    .set2 {    top: -2rem;
+        height: 190px;
+    }
+    /* section 3 */
+    .section3 {
+        height: 520px;
+        padding: 3px 0px;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: -20px 7px;
+        font-size: 25px;
+        line-height: 51px;
+        text-align: left;
+        color: #F8FBFF;
+        letter-spacing: .3px;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 30px 7px;
+        font-size: 12px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 500px;
+        margin: -80px 80px;
+    }
+    .platform {
+        position: absolute;
+        height: 100px;
+        margin: -20px 10px;
+    }
+    /* section4 */
+    .section4 {
+        height: 500px;
+    }
+   
+    .highlight_text {
+        top: 10px;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 61px;
+    }
+   
+     
+        .lead-calculator{
+            height: 21.0rem;
+        }
+      
+.highlights_new{
+    position: relative;
+width: 40rem;
+margin: 0px auto;
+top: 5rem;
+}
+.calculator1_new{
+    position: relative;
+    top: 0rem;
+    left: -5.5rem;
+    
+    transform: scale(.83);
+    
+    }
+.promo1_new{
+    position: relative;
+
+top: -23.1rem;
+left: 14.5rem;
+transform: scale(.70);
+}
+
+
+
+    .loan_today {
+        position: relative;
+        color: white;
+        font-weight: normal;
+        font-size: 200;
+        font-family: Poppins;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        letter-spacing: .2px;
+    }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+    
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+   
+    .quick_opt{
+        font-weight: 400;
+        height: 1.3rem;
+        top: -.0rem;
+        padding-top: rem;
+        width: 100%;
+       
+       }
+}
+@media (max-width: 768px) {
+ 
+    .section1 {
+        height: 900px;
+      
+    }
+    .tamawal_Type {
+        margin: 0px 12vw;
+    }
+   
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: 0rem;
+        right: 7rem;
+        height: 9rem;
+    }
+    .illus {
+        margin: 75px 0rem;
+        left: 8%;
+        top: 4rem;
+        height: 33rem;
+        z-index: -0;
+    }
+    .left-section {
+        margin: 90px 20px;
+        width: 100%;
+    }
+    h2 {
+        font-size: 4rem;
+        line-height: 30px;
+        /* letter-spacing: -2px; */
+    }
+    .text_1 {
+        top: 25px;
+    }
+    p2 {
+        font-size: 15px;
+       
+        line-height: 20px;
+    }
+    .text_2 {
+        margin: 3rem 0px;
+        width: 100%;
+    }
+    .button2 {
+        top: 5rem;
+        border-radius: 8px;
+        width: 250px;
+        height: 38px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .quick_search_wrapper{
+        position: relative;
+        top: 23rem;
+        
+        margin: 0px auto;
+        width: 20rem;
+    }
+    .averaging {
+        position: relative;
+        font-size: 1.95rem;
+        top: 7.2rem;
+        left: -16.4rem;
+        text-align: center;
+        line-height: 2.4rem;
+        width: 50rem;
+    }
+  
+   .quicksearch{
+    transform: scale(.7);
+    top: 4.5rem;
+    left: -17.8rem;
+}
+    /* section 2 */
+    .section2 {
+        height: 460px;
+    }
+    .virtual_wrapper{
+width: 20rem;
+margin: 0px auto;
+    }
+    .virtual {
+        position: relative;
+        margin: 0px 0rem;
+        top: 20px;
+        left: -12rem;
+        text-align: center;
+        font-size: 30px;
+        width: 730px;
+        line-height: 40px;
+       
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 15px;
+        top: 2rem;
+    }
+    .timeline {
+        position: relative;
+        margin: 2rem 150px;
+        height: 45px;
+    }
+    .card_flex {
+        position: relative;
+        margin: 100px 130px;
+        display: flex;
+    }
+    .why_text {
+        width: 101px;
+        margin: -390px 18px;
+        font-weight: 1800;
+        font-size: 23px;
+        line-height: 25px;
+        text-align: center;
+        color: #014497;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .set1 {
+        height: 190px;
+        margin-right: -20px;
+    }
+    .set2 {
+        height: 190px;
+    }
+    /* section 3 */
+    .section3 {
+        height: 520px;
+        padding: 3px 0px;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: -20px 20px;
+        font-size: 25px;
+        line-height: 51px;
+        text-align: left;
+        color: #F8FBFF;
+        letter-spacing: .3px;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 30px 19px;
+        font-size: 12px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 500px;
+        margin: -80px 10%;
+    }
+    .platform {
+        position: absolute;
+        height: 100px;
+        margin: -20px 10px;
+    }
+    /* section4 */
+    .section4 {
+        height: 950px;
+    }
+   
+    .highlight_text {
+        top: 10px;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 61px;
+    }
+    
+    
+    .loan_today {
+        position: relative;
+        color: white;
+        font-weight: normal;
+        font-size: 200;
+        font-family: Poppins;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        letter-spacing: .2px;
+    }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+    .highlights_new{
+        position: relative;
+    width: 30rem;
+    margin: 0px auto;
+    top: 5rem;
+    }
+    .calculator1_new{
+        position: relative;
+        top: 0rem;
+        left: 3.2rem;
+        
+        transform: scale(1.18);
+        
+        }
+    .promo1_new{
+        position: relative;
+    
+    top: 3rem;
+    left: -.6rem;
+    transform: scale(.95);
+    }
+        .lead-calculator{
+            height: 21.0rem;
+        }
+      
+    h2 {
+       /* background-color: darkgray; */
+    }
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        margin: 0px 0px;
+        line-height: 25px;
+        font-size: 13px;
+    }
+    .quick_opt{
+        font-weight: 400;
+        height: 1.3rem;
+        top: -.3rem;
+        padding-top: .3rem;
+        width: 100%;
+       
+       }
+}
+
+@media (max-width: 600px) {
+    
+  .Page_title{
+    top: 5.5vw;
+    font-size: 1.6rem;  font-weight: 500;
+    left: 1rem;
+  }
+  .top_section_faq{
+    height: 140px;
+
+  }
+    .Business {
+        font-size: 15px;
+    }
+    .personal {
+        font-size: 15px;
+        opacity: .3;
+    }
+    .section1 {
+        height: 820px;
+        padding-left: 1rem;
+    }
+    .tamawal_Type {
+        left: -13vw;
+       /* background-color: red; */
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: 0rem;
+        right: 3rem;
+        height: 9.3rem;
+    }
+    .illus {
+        margin: 130px 0px;
+        left: 1rem;
+        right: 3rem;
+        height: 27.5rem;
+    }
+    .left-section {
+        margin: 90px 10px;
+    }
+    h2 {
+        font-size: 50px;
+        line-height: 10px;
+        letter-spacing: -1px;
+        /* background-color: chartreuse; */
+    }
+    .text_1 {
+        top: 35px;
+    }
+    p2 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .text_2 {
+        margin: 60px 0px;
+        width: 40rem;
+    }
+    .button2 {
+        top: 5.6rem;
+        border-radius: 8px;
+        width: 230px;
+        height: 36px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 18px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .quick_search_wrapper{
+        position: relative;
+        top: 23rem;
+       
+        margin: 0px auto;
+        width: 20rem;
+    }
+    .averaging {
+        top: 6.8rem;
+        left: -6.4rem;
+        font-size: 1.7rem;
+        line-height: 28px;
+        width: 500px;
+    }
+    .quicksearch{
+        transform: scale(.58);
+        top: 3.1rem;
+        left: -17.2rem;
+    }
+    .BtnApply{
+      
+    border: 3px solid #2E568C;text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.46);
+   
+    }
+    /* section 2 */
+    .section2 {
+        height: 580px;
+    }
+    .virtual_wrapper{
+        width: 20rem;
+        margin: 0px auto;
+            }
+    .virtual {
+        font-size: 28px;
+        position: relative;
+        margin: 16px 40px;
+        top: 0px;
+        left: -8rem;
+        text-align: center;
+        font-size: 2rem;
+        color: #014497;
+        width: 500px;
+        line-height: 38px;
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 15px;
+        top: -10px;
+        left: 0rem;
+    }
+    .timeline {
+        position: relative;
+        margin: 20px 20px;
+        top: -1rem;
+        height: 48px;
+    }
+    .card_flex { 
+        position: relative;
+        margin: 310px 0px;
+        display: flex;
+    }
+    .set1 {
+        top: 7rem;
+        height: 12.5rem;
+        margin: -100px 0px;
+        margin-right: -20px;
+    }
+    .set2 {top: 7rem;
+        margin: -100px 0px;
+        height: 12.5rem;
+    }
+    .why_text {
+        margin: -400px 200px;
+        font-size: 2rem;
+        width: 12rem;
+        line-height: 32px;
+        text-align: center;
+        
+        opacity: .7;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    }
+    /* section 3 */
+    .section3 {
+        height: 590px;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: 1px 10px;
+        font-size: 30px;
+        line-height: 25px;
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 36px 10px;
+        font-size: 15px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 380px;
+        margin: -10px -4%;
+        left: 2rem;
+    }
+    .platform {
+        position: absolute;
+        height: 140px;
+        margin: 320px 64%;
+    }
+    /* section4 */
+    .section4 {
+        height: 900px;
+    }
+   
+    .highlight_text {
+        position: relative;
+        top: 10px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 61px;
+        /* identical to box height */
+        text-align: center;
+        color: #15549A;
+    }
+    
+    .loan_today {
+        position: relative;
+        color: white;
+        font-weight: normal;
+        font-size: 200;
+        font-family: Poppins;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        letter-spacing: .2px;
+    }
+   
+        .lead-calculator{
+            padding-top: .7rem;
+            height: 21.0rem;
+        }
+        .highlights_new{
+            position: relative;
+     
+        width: 26rem;
+        margin: 0px auto;
+        top: 4rem;
+        }
+        .calculator1_new{
+            position: relative;
+            top: 0rem;
+            left: .8rem;
+            
+            transform: scale(1.07);
+            
+            }
+        .promo1_new{
+            position: relative;
+        
+        top: 1rem;
+        left: -2.3rem;
+        transform: scale(.86);
+        }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+    
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        margin: 0px 0px;
+        line-height: 25px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 550px) {
+  
+    
+}
+@media (max-width: 500px) {
+    .averaging {
+        top: 7rem;
+        left: -5.4rem;
+        font-size: 1.5rem;
+        line-height: 28px;
+        width: 460px;
+    }
+    .quicksearch{
+        transform: scale(.54);
+        top: 3.1rem;
+        left: -17.2rem;
+    }
+     
+ }
+@media (max-width: 425px) {
+    .Page_title{
+        top: 5.5vw;
+        font-size: 1.2rem;
+        left: .5rem;
+        font-weight: 500;
+      }
+      .top_section_faq{
+        height: 120px;
+    
+      }
+
+    .Business {
+        font-size: 15px;
+    }
+    .personal {
+        font-size: 15px;
+        opacity: .3;
+    }
+    .section1 {
+        height: 660px;
+    }
+    .tamawal_Type {
+        
+       left: -3rem;
+      
+    }
+    .navbar{
+       width: 100%;
+    }
+    .sticky-top2 {
+        padding-left: -8rem;
+width: 100%;
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: 0rem;
+        right: 3rem;
+        height: 9.3rem;
+    }
+    .illus {
+        margin: 100px 0px;
+        left: -5%;
+        height: 350px;
+    }
+    .left-section {
+        margin: 90px -1px;
+    }
+    h2 {
+        font-size: 42px;
+        line-height: 10px;
+        letter-spacing: -1px;
+        /* background-color: darkslateblue; */
+    }
+    .text_1 {
+       
+        top: 25px;
+        font-size: 2.5rem;
+    }
+    p2 {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .text_2 {
+        margin: 40px 0px;
+        width: 380px;
+    }
+    .button2 {
+        top: 60px;
+        border-radius: 8px;
+        width: 130px;
+        height: 26px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 8px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+  
+    .quick_search_wrapper{
+        height: 10rem;
+        position: relative;
+        top: 23rem;
+      
+        margin: 0px auto;
+        width: 16rem;
+    }
+    .averaging {
+        top: 1rem;
+        left: -3.4rem;
+        font-size: 1.3rem;
+        line-height: 28px;
+        width: 360px;
+    }
+    .quicksearch{
+        transform: scale(.44);
+        top: -4.5rem;
+        left: -18.6rem;
+    }
+    .quick_text3{text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+     
+     }
+
+    /* section 2 */
+    .section2 {
+        height: 680px;
+    }
+    .virtual_wrapper{
+        width: 16rem;
+        margin: 0px auto;
+            }
+    .virtual {
+        position: relative;
+        margin: 16px 0px;
+        top: 0px;
+        left: -4.8rem;
+        text-align: center;
+        font-size: 22px;
+        color: #014497;
+        width: 400px;
+        line-height: 23px;
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 12px;
+        top: -5px;
+        left: -.4rem;
+    }
+    .timeline {
+        position: relative;
+        margin: 0px 10px;
+        top: -0px;
+        height: 35px;
+    }
+    .card_flex {
+        position: relative;
+        margin: 180px 20px;
+        display: flex;
+    }
+    .set1 {
+        top: 0px;
+        height: 240px;
+        margin: -100px 0px;
+        margin-right: -20px;
+    }
+    .set2 {    top: 0px;
+        margin: 120px -335px;
+        height: 240px;
+    }
+    .why_text {
+        /* why tama */
+        position: absolute;
+        width: 141px;
+        margin: -830px 130px;
+        font-family: poppins;
+        font-style: bold;
+        font-weight: 1800;
+        font-size: 20px;
+        line-height: 22px;
+        text-align: center;
+        color: #014497;
+        opacity: .99;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    }
+    /* section 3 */
+    .section3 {
+        height: 420px;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: 1px 10px;
+        font-family: poppins;
+        font-style: bold;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 25px;
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 20px 10px;
+        font-family: poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 300px;
+        margin: -30px -5%;
+    }
+    .platform {
+        position: absolute;
+        height: 100px;
+        margin: 220px 65%;
+    }
+    /* section4 */
+    .section4 {
+        height: 800px;
+    }
+    .highlights {
+        display: contents;
+        margin: 70px 0px;
+    }
+    .highlight_text {
+        position: relative;
+        top: 10px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 27px;
+        line-height: 61px;
+        /* identical to box height */
+        text-align: center;
+        color: #15549A;
+    }
+  
+    .highlights_new{
+        display: block;
+        flex: 100%;
+        top: 0rem;
+        }
+        .calculator1_new{
+        position: relative;
+        top: 2.2rem;
+        width: 100%;
+        transform: scale(.8);
+        padding-left: 0%;
+        left: 0%;
+        }
+        .lead-calculator{
+            padding-top: .7rem;
+            height: 21.0rem;
+        }
+        .promo1_new{
+            position: relative;
+        width: 100%;
+        
+        top: -1rem;
+        transform: scale(.66);
+        right: 0%;
+        left: -8%;
+        }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+   
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .quick_opt{
+        font-weight: 400;
+        height: 1.1rem;
+        
+        top: .0rem;
+        padding-top: -.9rem;
+        width: 100%;
+       
+       }
+}
+
+
+@media (max-width: 414px) {
+    .sticky-top2{
+        width: 26rem;
+    }
+    .navbar{
+        left: -1rem;
+       
+    }
+    
+}
+
+
+
+
+@media (max-width: 375px) {
+    .Business {
+        font-size: 15px;
+    }
+    .personal {
+        font-size: 15px;
+        opacity: .3;
+    }
+    .section1 {
+        height: 640px;
+        left: 0px;
+    }
+    .tamawal_Type {
+        
+       left: -2rem;
+      
+    }
+    .sticky-top2{
+        width: 26rem;
+    }
+    .account{
+        position: relative;
+        left: 1rem;
+    }
+    .navbar{
+        left: -2rem;
+       
+    }
+    .nav_check{
+        position: relative;
+        left: 1rem;
+    }
+    .nav-item{
+        width: 90%;
+        left: 1rem;
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: 0rem;
+        right: 3rem;
+        height: 9.3rem;
+    }
+    .illus {
+        margin: 100px 0px;
+        left: -5%;
+        height: 350px;
+    }
+    .left-section {
+        margin: 90px -1px;
+    }
+    h2 {
+        font-size: 36px;
+        line-height: 10px;
+        letter-spacing: -1px;
+        /* background-color: darkslateblue; */
+    }
+    .text_1 {
+        top: 25px;font-size: 2.4rem;
+    }
+    p2 {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .text_2 {
+        margin: 40px 0px;
+        width: 380px;
+    }
+    .button2 {
+        top: 60px;
+        border-radius: 8px;
+        width: 130px;
+        height: 26px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 8px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .averaging {
+        top: -.5rem;
+        left: -3.4rem;
+        font-size: 1.2rem;
+        line-height: 28px;
+        width: 360px;
+    }
+    .quicksearch{
+        transform: scale(.42);
+        top: -6rem;
+        left: -18.6rem;
+    }
+  
+    /* section 2 */
+    .section2 {
+        height: 680px;
+    }
+    .virtual {
+        font-size: 20px;
+    }
+    .text_give {
+        position: relative;
+        text-align: center;
+        font-size: 12px;
+        top: -9px;
+        left: -.7rem;
+    }
+    .timeline {
+        position: relative;
+        margin: 0px auto;
+        left: .7rem;
+        top: 0px;
+        height: 31px;
+    }
+    .card_flex {
+        position: relative;
+        margin: 190px 20px;
+        display: flex;
+    }
+    .set1 {
+        height: 240px;
+        margin: -100px 0px;
+        margin-right: -16px;
+    }
+    .set2 {
+        margin: 120px -320px;
+        height: 240px;
+    }
+    .why_text {
+        /* why tama */
+        position: absolute;
+        width: 141px;
+        margin: -830px 110px;
+        font-family: poppins;
+        font-style: bold;
+        font-weight: 1800;
+        font-size: 20px;
+        line-height: 22px;
+        text-align: center;
+        color: #014497;
+        opacity: .9;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    }
+    /* section 3 */
+    .section3 {
+        height: 420px;
+    }
+    .work_text {
+        /* The simplest way to */
+        position: relative;
+        margin: 1px 10px;
+        font-family: poppins;
+        font-style: bold;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 25px;
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .text_get_started {
+        position: relative;
+        margin: 20px 10px;
+        font-family: poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 25px;
+        /* or 142% */
+        text-align: left;
+        color: #F8FBFF;
+    }
+    .how_work {
+        height: 300px;
+        margin: -30px -5%;
+    }
+    .platform {
+        position: absolute;
+        height: 100px;
+        margin: 220px 65%;
+    }
+    /* section4 */
+    .section4 {
+        height: 750px;
+    }
+    .highlights {
+        display: contents;
+        margin: 70px 0px;
+    }
+    .highlight_text {
+        position: relative;
+        top: 10px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 61px;
+      left: -.5rem;
+        text-align: center;
+        color: #15549A;
+    }
+  
+    .highlights_new{
+        display: block;
+        flex: 100%;
+        top: -2rem;
+        }
+        .calculator1_new{
+        position: relative;
+        top: 2.2rem;
+        width: 100%;
+        transform: scale(.8);
+        padding-left: 0%;
+        left: -.7rem;
+        }
+        .lead-calculator{
+            padding-top: .7rem;
+            height: 21.0rem;
+        }
+        .promo1_new{
+            position: relative;
+        width: 100%;
+        
+        top: -1rem;
+        transform: scale(.64);
+    
+        left: -3rem;
+        }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+   
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        
+    }
+}
+@media (max-width: 363px) {
+    .Business {
+        font-size: 15px;
+    }
+    .personal {
+        font-size: 15px;
+        opacity: .3;
+    }
+    .section1 {
+        height: 620px;
+        left: 0px;
+    }
+    .tamawal_Type {
+        
+       left: -3rem;
+      
+    }
+    .sticky-top2{
+        width: 25rem;
+    }
+    .navbar{
+        left: -2rem;
+       
+    }
+    .nav-item{
+        width: 90%;
+        left: 1rem;
+    }
+    .far1 {
+        margin: 0px 35rem;
+        color: white;
+    }
+    .far2 {
+        margin: 0px 45rem;
+    }
+    .bg-stripes {
+        margin-top: 0rem;
+        right: 3rem;
+        height: 9.3rem;
+    }
+    .illus {
+        margin: 100px 0px;
+        left: -5%;
+        height: 350px;
+    }
+    .left-section {
+        /* margin: 90px 5px; */
+    }
+    h2 {
+        font-size: 36px;
+        line-height: 10px;
+        letter-spacing: -1px;
+        /* background-color: darkslateblue; */
+    }
+    .text_1 {
+        top: 25px;
+        font-size: 2.15rem;
+    }
+    p2 {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .text_2 {
+        margin: 40px 0px;
+        width: 380px;
+    }
+    .button2 {
+        top: 60px;
+        border-radius: 8px;
+        width: 130px;
+        height: 26px;
+        border-width: 0;
+    }
+    .btn_text {
+        font-size: 8px;
+        line-height: 17px;
+    }
+    h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+   
+    .averaging {
+        top: -.8rem;
+        left: -3.4rem;
+        font-size: 1.2rem;
+        line-height: 24px;
+        width: 360px;
+    }
+    .quicksearch{
+        transform: scale(.4);
+        top: -6.5rem;
+        left: -18.6rem;
+    }
+    /* section 2 */
+    .section2 {
+        height: 680px;
+    }
+    .virtual {
+      
+    }
+    .text_give {
+        position: relative;
+        color: #014497;
+        text-align: center;
+        font-size: 12px;
+      
+    }
+    .timeline {
+      
+    }
+    .card_flex {
+        position: relative;
+        display: flex;
+    }
+    .set1 {
+        height: 240px;
+        margin: -100px 0px;
+        margin-right: -10px;
+    }
+    .set2 {
+        margin: 120px -310px;
+        height: 240px;
+    }
+    .why_text {
+        /* why tama */
+      
+    }
+    /* section 3 */
+    .section3 {
+        height: 420px;
+    }
+    .work_text {
+        font-size: 25px;
+       
+    }
+    .text_get_started {
+        font-size: 12px;
+        
+    }
+    .how_work {
+        height: 300px;
+        margin: -30px -5%;
+    }
+    .platform {
+        position: absolute;
+        height: 100px;
+        margin: 220px 65%;
+    }
+    /* section4 */
+    .section4 {
+        height: 750px;
+    }
+    .highlights {
+        display: contents;
+        margin: 70px 0px;
+    }
+    .highlight_text {
+        position: relative;
+        top: 10px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 61px;
+        font-size: 22px;
+
+        text-align: center;
+        color: #15549A;
+    }
+  
+    .highlights_new{
+        display: block;
+        flex: 100%;
+        top: -2rem;
+        }
+        .calculator1_new{
+        position: relative;
+        top: 2.2rem;
+        width: 100%;
+        transform: scale(.8);
+        padding-left: 0%;
+        left: -1.3rem;
+        }
+        .lead-calculator{
+            padding-top: .7rem;
+            height: 21.0rem;
+        }
+        .promo1_new{
+            position: relative;
+        width: 100%;
+        
+        top: -1rem;
+        transform: scale(.64);
+    
+        left: -3.6rem;
+        }
+    .btn-sm {
+        margin: 20px 0px;
+        border-radius: 8px;
+        height: 32px;
+        width: 50%;
+    }
+   
+    .pg22 {
+        position: relative;
+        top: -70px;
+    }
+    .get_best {
+        
+    }
+}
+
+
+

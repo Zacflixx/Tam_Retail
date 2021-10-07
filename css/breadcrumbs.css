@@ -1,0 +1,55 @@
+ul.breadcrumb {
+    position: relative;
+    top: 7vw;
+    padding: 10px 16px;
+    list-style: none;
+    background-color: transparent;
+}
+
+ul.breadcrumb li {
+    font-family: poppins;
+    display: inline;
+    font-weight: 300;
+    font-size: .9em;
+}
+
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: grey;
+    content: "/\00a0";
+}
+
+ul.breadcrumb li a {
+    color: white;
+    text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+@media (max-width: 1024px) {
+    ul.breadcrumb {
+        top: 4.5rem;
+    }
+    
+}
+@media (max-width: 990px) {
+    ul.breadcrumb {
+        top: 7%;
+    }
+    
+}
+@media (max-width: 834px) {
+    ul.breadcrumb {
+        top: 7%;
+    }
+    
+}
+@media (max-width: 600px) {
+    ul.breadcrumb {
+        top: 3%;
+    }
+    
+}
