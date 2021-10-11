@@ -10542,7 +10542,7 @@ body.direction-rtl .user-menu span {
 
 .apply__title {
     position: relative;
-    color: #338D1B;
+    color: #303246c5;;
     font: 2rem "poppins";
     font-size: 1rem;
     font-weight: 600;
@@ -10553,7 +10553,7 @@ body.direction-rtl .user-menu span {
     position: relative;
     width: 4rem;
     height: 3rem;
-    border: 1px solid#338D1B;
+    border: 1px solid#303246c5;
     border-radius: 200px;
     width: 20px;
     cursor: pointer;
@@ -10565,7 +10565,7 @@ body.direction-rtl .user-menu span {
     top: 50%;
     left: 45%;
     content: '';
-    border: solid #338D1B;
+    border: solid #303246c5;
     border-width: 0 2px 2px 0;
     display: inline-block;
     padding: 0.2083333333rem;

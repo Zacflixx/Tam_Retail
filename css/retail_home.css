@@ -129,7 +129,7 @@ body {
     font-size: 40px;
     margin: 8px 0;
     color: #0B4F97;
-    font-weight: normal;
+    font-weight: bold;
     opacity: .9;
     position: relative;
     font-family: Poppins;
@@ -157,7 +157,7 @@ body {
     font-weight: 400;
     border-radius: 6px;
     /* border: 2px solid #23555e; */
-    transition: all 0.3s ease;
+    transition: all 0.3s ease;   font-family: Poppins;
 }
 
 .home .home-content a:hover {
@@ -210,7 +210,7 @@ body {
     font-size: 20px;
     line-height: 28px;
     /* text-align: center; */
-    color: #272710;
+    color: #090a14cb;
     background: none;
     border: none;
     /* text-decoration: underline; */
@@ -242,7 +242,7 @@ height: 25.05px; */
     font-size: 1.3rem;
     line-height: 28px;
     text-align: center;
-    color: #272710;
+    color: #090a14cb;
     opacity: 0.9;
 }
 
@@ -348,7 +348,7 @@ height: 25.05px; */
     font-size: 1.3rem;
     line-height: 28px;
     text-align: center;
-    color: #272710;
+    color: #090a14cb;
 }
 
 .money-salary {
@@ -475,15 +475,24 @@ height: 25.05px; */
     color: #666666;
 }
 
-
+.item-title{
+  font-family: poppins; font-weight: 500 ; opacity: .85; 
+  text-shadow: none;
+}
 .apply__title{
     position: relative;
+    
     top: .5rem;
     font-size: 1.2rem;
+    color:#303246c5;
+    text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.10);
+    
 }
+
 .apply__button{
     position: relative;
-    top: -1.4rem;
+    top: -1.5rem;
+    color:#303246c5;
 }
 /* .applybutton{
     font-family: poppins;
