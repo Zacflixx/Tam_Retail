@@ -264,3 +264,10 @@ setInterval(() => {
     numb.textContent = counter + "%";
   }
 }, 80);
+
+$("button").click(function () {
+    $(".check-icon").hide();
+    setTimeout(function () {
+      $(".check-icon").show();
+    }, 10);
+  });

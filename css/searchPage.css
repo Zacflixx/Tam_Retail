@@ -824,3 +824,189 @@ border-radius: 8px;
 p{
     font-family: poppins;
 }
+
+
+
+
+
+/* accepted page */
+
+
+.Congrats_text1{position: relative;
+    top:  1.5rem;
+    left: 1rem;
+    color: #0C4086;
+font-size: 2rem;
+font-weight: 600;
+text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.17);
+}
+.Congrats_wrap{
+    position: relative;
+   
+    top: 5rem;
+    left: 0%;
+    display: flex;
+    margin: 0px auto;
+}
+.congrats_section{ opacity: .89;
+    position: relative;
+    top: -5rem;
+    margin: -0rem auto;
+width: 30rem;
+height: 20rem;
+}
+.Congrats_text2{position: relative;
+    font-family: poppins;
+    top:  2.1rem;
+    left: 1rem;
+    color: #0C4086;
+    text-align: center;
+font-size: 1rem;
+font-weight: 600;
+text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.17);
+}
+
+.Results{
+    
+  
+}
+.GoToCheckout{
+    margin: 20px auto;
+    width: 20rem;
+    height: 3rem;
+
+    
+    font-size: 1.3rem;
+    text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
+
+}
+.offers_eligible{
+padding: 5%;
+}
+.offer_Eligible{
+    margin: 2rem auto;
+    border-width: 1rem;
+    border-color: black;
+}
+.check-container {
+    position: relative;
+    top: 1rem;
+    width: 6.25rem;
+    height: 7.5rem;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.check-container .check-background {
+    width: 100%;
+    height: calc(100% - 1.25rem);
+    background: linear-gradient(to bottom right, #0C4086, #0C4086);
+    box-shadow: 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset;
+    transform: scale(0.84);
+    border-radius: 50%;
+    animation: animateContainer 0.75s ease-out forwards 0.75s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+.check-container .check-background svg {
+    width: 65%;
+    transform: translateY(0.25rem);
+    stroke-dasharray: 80;
+    stroke-dashoffset: 80;
+    animation: animateCheck 0.35s forwards 1.25s ease-out;
+}
+.check-container .check-shadow {
+    bottom: calc(-15% - 5px);
+    left: 0;
+    border-radius: 50%;
+    background: radial-gradient(closest-side, #0C4086, transparent);
+    animation: animateShadow 0.75s ease-out forwards 0.75s;
+}
+@keyframes animateContainer {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+        box-shadow: 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset;
+   }
+    25% {
+        opacity: 1;
+        transform: scale(0.9);
+        box-shadow: 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset;
+   }
+    43.75% {
+        transform: scale(1.15);
+        box-shadow: 0px 0px 0px 43.334px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 65px rgba(255, 255, 255, 0.25) inset;
+   }
+    62.5% {
+        transform: scale(1);
+        box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 21.667px rgba(255, 255, 255, 0.25) inset;
+   }
+    81.25% {
+        box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 0px rgba(255, 255, 255, 0.25) inset;
+   }
+    100% {
+        opacity: 1;
+        box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.25) inset, 0px 0px 0px 0px rgba(255, 255, 255, 0.25) inset;
+   }
+}
+@keyframes animateCheck {
+    from {
+        stroke-dashoffset: 80;
+   }
+    to {
+        stroke-dashoffset: 0;
+   }
+}
+@keyframes animateShadow {
+    0% {
+        opacity: 0;
+        width: 100%;
+        height: 15%;
+   }
+    25% {
+        opacity: 0.25;
+   }
+    43.75% {
+        width: 40%;
+        height: 7%;
+        opacity: 0.35;
+   }
+    100% {
+        width: 85%;
+        height: 15%;
+        opacity: 0.25;
+   }
+}
+
+
+@media (max-width: 1440px) {
+
+
+}
+
+
+@media (max-width: 600px) {
+.offer_suggestions{
+    position: relative;
+    top: 5rem;
+}
+.congrats_section{
+    transform: scale(.8);
+}
+
+
+}
+
+@media (max-width: 425px) {
+
+    .congrats_section{
+        transform: scale(.7);
+        left: -2rem;
+    }
+    
+    
+    }
+
