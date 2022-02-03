@@ -1,0 +1,276 @@
+<html>
+
+<head>
+  <title>SignUp</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+
+  <link href="./css/rand.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="./css/steps.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script>
+  <script type="text/javascript" src="./js/steps.js"></script>
+  
+</head>
+
+<body style="background-color: #300032;">
+    <div class="sticky-top">
+
+        <!-- /.top-bar -->
+        <nav class="navbar navbar-light bg-light py-3 bg-white  " style=" background-color: white ;">
+           <a style="text-align: center; font-size: 1.2rem; background-color: ;" class="nav-link dropdown-item navi"  href="./index.html"
+                aria-haspopup="true" aria-expanded="false">
+                Dashboard
+            </a>
+        </nav>
+        <!-- <img src="/images/Desktop - 1.svg" class="bg-stripes" alt=""> -->
+    </div>
+
+<div class="steps_wrap"  style="">
+
+
+<div class="JustWrap">   
+
+    <h1>Just a few steps to go</h1></div>
+    <div class="svgWrap" id="svg_wrap"></div>
+   <section>
+     <p  class="head_section">Personal information</p>
+
+   <div class="row4">
+    <div class="col4">
+      <p>Your National ID</p>
+       <input type="text" placeholder="National ID" required />
+
+    <p>Some text here</p>
+    <input type="date" placeholder="National ID" />
+
+    <p>ID Expiration Date</p>
+    <input type="date" placeholder="Id Expiration" />
+
+   <p>Birthdate</p>
+    <input type="date" placeholder="Birthdate" />
+    <p>Marital Status</p>
+   <select class="info2" name="" id="">
+     <option value=""> Single</option>
+     <option value=""> Married</option>
+   </select>
+   <p>Attach ID &#x21C5;</p>
+   <input type="file" id="myFile" name="filename">
+    </div>
+
+
+
+   <div class="col4">
+
+
+
+   <p>Family Members Count &#x21C5;</p>
+   <select class="info2" name="" id="">
+     <option value=""> 1   </option>
+     <option value=""> 2   </option>
+     <option value=""> 3    </option>
+     <option value=""> 4    </option>
+     <option value=""> 5   </option>
+     <option value=""> 5+  </option>
+
+     <!-- <option value=""> 5   &nbsp; &nbsp;    &#x21C5;</option> -->
+   </select>
+
+   <p>Family Members Fees &#x21C5;</p>
+   <select class="info2" name="" id="">
+     <option value=""> 1</option>
+     <option value=""> 2</option>
+     <option value=""> 3</option>
+     <option value=""> 4</option>
+     <option value=""> 5</option>
+     <option value=""> 5+</option>
+   </select> 
+   
+   <p>City &#x21C5;</p>
+   <select class="info2" name="" id="">
+    <option value=""> City 1</option>
+    <option value=""> City 2</option>
+    <option value=""> City 3</option>
+    <option value=""> City 4</option>
+    <option value=""> City 5</option>
+  </select> 
+
+  <p>Do You have Insurance &#x21C5;</p>
+   <select class="info2" name="" id="">
+    <option value=""> Yes</option>
+    <option value=""> No</option>
+   </select>
+
+   <p>Housing Status &#x21C5;</p>
+    <select class="info2" name="" id="">
+     <option value=""> Status 1</option>
+     <option value=""> Status 2</option>  </select> 
+   
+    <p>Eligible for real estate fund support &#x21C5;</p>
+    <select class="info2" name="" id="">
+     <option value=""> Yes</option>
+     <option value=""> No</option>
+   
+  </select> 
+
+   </div>
+   </div>
+     
+   </section>
+   
+   <section>
+     <p class="head_section">Job Information</p>
+
+     <p>Employer</p>
+     <input type="text" placeholder="Employer" required />
+
+     <p>Sector &#x21C5;</p>
+     <select class="info2" name="" id="">
+      <option value=""> Sector 1</option>
+      <option value=""> Sector 2</option>
+      <option value=""> Sector 3</option>
+      <option value=""> Sector 4</option>
+      <option value=""> Sector 5</option>
+    </select> 
+
+    <p>Hiring Date </p>
+     <input type="date" placeholder="Hiring Date" />
+
+     <p>Bank &#x21C5;</p>
+     <select class="info2" name="" id="">
+      <option value=""> Bank 1</option>
+      <option value=""> Bank 2</option>
+      <option value=""> Bank 3</option>
+      <option value=""> Bank 4</option>
+      <option value=""> Bank 5</option>
+    </select> 
+
+    
+    <p>Bank Transfer&#x21C5;</p>
+    <select class="info2" name="" id="">
+     <option value=""> Yes</option>
+     <option value=""> No</option>
+   </select> 
+
+
+<div class="row4">  
+  <div>
+    <p>Payment Slip &#x21C5;</p>
+    <input style="" type="file" id="myFile" name="filename"> 
+  </div>
+   <div>
+    <p>Bank Statement &#x21C5;</p>
+    <input style=""  type="file" id="myFile" name="filename">
+   </div>
+
+</div>
+
+   </section>
+   
+   <section>
+     <p class="head_section">Income information</p>
+    
+     <div class="row4">
+     <div class="col4">
+      <p>Basic Salary Amount </p>
+      <input type="number" placeholder="Salary" />
+ 
+      <p>Housing Income </p>
+      <input type="number" placeholder="Housing Income" />
+ 
+      <p>Transport Income </p>
+      <input type="number" placeholder="Transport Income" />
+ 
+      <p >Allowance List</p>
+      <input type="number" placeholder="Allowance name" />
+ 
+      <p>Allowance Frequency &#x21C5;</p>
+      <select class="info2" name="" id="">
+       <option value=""> Allowance Frequency 1</option>
+       <option value=""> Allowance Frequency 2</option>
+       <option value=""> Allowance Frequency 3</option>
+       <option value=""> Allowance Frequency 4</option>
+       <option value=""> Allowance Frequency 5</option>
+     </select> 
+     </div>
+ 
+     <div class="col4">
+      <p>Amount </p>
+      <input type="number" placeholder="Allowance" />
+ 
+      <p>Add Allowance </p>
+      <input style=""  type="file" id="myFile" name="filename">
+ 
+      <p>Income </p>
+      <select class="info2" name="" id="">
+       <option value=""> Income 1</option>
+       <option value=""> Income 2</option>
+       <option value=""> Income 3</option>
+     </select> 
+ 
+     <p>Income Frequency</p>
+      <select class="info2" name="" id="">
+       <option value=""> Income Frequency 1</option>
+       <option value=""> Income Frequency 2</option>
+       <option value=""> Income Frequency 3</option>
+     </select> 
+     <p>Income </p>
+     <input type="number" placeholder="Income" />
+     </div>
+     </div>
+   </section>
+   
+   <section>
+     <p class="head_section">Commitment Information</p>
+     <p>Commitment List </p>
+      <select class="info2" name="" id="">
+       <option value=""> Commitment List 1</option>
+       <option value=""> Commitment List 2</option>
+       <option value=""> Commitment List 3</option>
+     </select> 
+     <p>Commitment Frequency </p>
+      <select class="info2" name="" id="">
+       <option value=""> Commitment Frequency 1</option>
+       <option value=""> Commitment Frequency 2</option>
+       <option value=""> Commitment Frequency 3</option>
+     </select> 
+
+     <p>Amount </p>
+     <input type="number" placeholder="Commitment Amount" />
+
+   </section>
+   
+   <section>
+     <p class="head_section">Additional Expenses</p>
+     <p>Expense </p>
+     <input type="number" placeholder="Expense" />
+     <p>Expense </p>
+     <input type="number" placeholder="Expense" />
+     <p>Expense </p>
+     <input type="number" placeholder="Expense" />
+     <p>Expense </p>
+     <input type="number" placeholder="Expense" />
+      <br>
+
+     <p>I hereby declare that the information provided is true and correct. I also understand that any willful
+      dishonesty may render for refusal of this application or immediate termination of Loan appointment. </p>
+      <select class="info2" name="" id="">
+        <option value=""> No</option>
+        <option value=""> Yes</option>
+      </select> 
+
+   </section>
+   
+     <div class="button" id="prev">&larr; Previous</div>
+   <div class="button" id="next">Next &rarr;</div>
+ <a href="./OfferPage.html">  <div class="button" id="submit">Agree and send application</div></a>
+</div>
+
+
+
+
+</body>
+
+</html>
