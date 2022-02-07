@@ -1,7 +1,6 @@
 /* responsive media query start */
 
 @media (max-width: 1440px) {
-  
     .home {
         width: 100%;
         background-size: auto 32rem;
@@ -19,11 +18,9 @@
     .right_header88 {
         left: 50vw;
     }
-    
-    .bg-stripes{
+    .bg-stripes {
         width: 80rem;
         left: 0rem;
-      
     }
     .header_content {
         position: relative;
@@ -34,8 +31,6 @@
     .side-contents1 {
         position: relative;
         top: -120px;
-       
-   
         /* height: 100%;  */
     }
     .phone {
@@ -44,20 +39,17 @@
         height: 40rem;
     }
     .averaging {
-     
         font-size: 2.2rem;
         line-height: 2.3rem;
     }
     .column-right1 {
-    left: -1rem;
-        
+        left: -1rem;
     }
     .column-left1 {
         /* position: relative;
         left: -3rem; */
     }
-    .info{
-    
+    .info {
         /* background-color: #012558; */
     }
     .item {
@@ -93,7 +85,6 @@
     /* section 2 */
     .section_2 {
         position: relative;
-  
         top: 0rem;
     }
     .products_fitting {
@@ -105,23 +96,18 @@
         position: relative;
         transform: scale(.9);
         left: -7rem;
-     
     }
-    .heading_wrapper{
+    .heading_wrapper {
         width: 40rem;
     }
-
     /* section3 */
-    .section_3 {
-      
-    
-    }
-    .Marketplace_text1 {
+    .section_3 {}
+    .Marketplace_text11 {
         /* pos
         font-size: 2.5rem;
         margin: -70rem 2rem; */
     }
-    .text_payLater {
+    .text_payLater11 {
         /* top: 20rem; */
     }
     .marketplace_results {
@@ -150,7 +136,6 @@
 
 @media (max-width: 1280px) {
     .home {
-        
         background-position: -5rem 0rem;
         background-size: auto 30rem;
     }
@@ -160,7 +145,7 @@
     .tamawal_Type88 {
         margin: 0px -4.5em;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 6rem;
@@ -172,10 +157,8 @@
         left: -7rem;
     }
     .side-contents1 {
-        
-    width: 103%;
+        width: 103%;
         top: -160px;
-       
     }
     .phone {
         top: -1.2rem;
@@ -183,16 +166,13 @@
         height: 38rem;
     }
     .averaging {
-    
         font-size: 1.78rem;
-       /* background-color: aqua; */
+        /* background-color: aqua; */
         line-height: 2.2rem;
     }
     .column-right1 {
-    
-      left: -4rem;
-      width: 97%;
-       
+        left: -4rem;
+        width: 97%;
     }
     .column-left1 {
         left: -4rem;
@@ -239,22 +219,19 @@
         z-index: 1;
         /* margin: auto 15vw; */
     }
-  
     /* section3 */
     .section_3 {
         top: 16rem;
         /* height: auto; */
     }
-    .Marketplace_text1 {
-     
+    .Marketplace_text11 {
         font-size: 2.5rem;
         /* margin: -70rem 2rem; */
     }
-    .text_payLater {
+    .text_payLater11 {
         /* top: 20rem; */
     }
     .row1 {
-        
         top: 7rem;
         padding: 1%;
     }
@@ -264,7 +241,6 @@
         padding: 10px;
     }
     .marketplace_results {
- 
         width: 100%;
         height: auto;
         margin: 60.54px 0vw;
@@ -277,12 +253,11 @@
 
 @media (max-width: 1125px) {
     .averaging {
-    
         font-size: 1.7rem;
-      width: 30rem;
+        width: 30rem;
         line-height: 2.2rem;
     }
-    .home{
+    .home {
         background-position: -10rem 0rem;
         background-size: auto 30rem;
     }
@@ -295,24 +270,23 @@
     .tamawal_Type88 {
         margin: 0px -2rem;
     }
-    .Business88{
+    .Business88 {
         font-size: 1rem;
         left: -1rem;
     }
     .right_header {
-        left: 47vw; 
+        left: 47vw;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 8rem;
     }
     .home {
-      overflow: hidden;
-      background-position: -4rem 0rem;
-      background-size: auto 24rem;
+        overflow: hidden;
+        background-position: -4rem 0rem;
+        background-size: auto 24rem;
     }
-    
     .text_2 {
         line-height: 1rem;
     }
@@ -343,19 +317,17 @@
         left: 5rem;
     }
     .averaging {
-       
         width: 100%;
         position: relative;
         line-height: 2rem;
         font-size: 1.6rem;
     }
-   
     .info {
         width: 97%;
     }
     .column-right1 {
         background-color: ;
-         height: 16rem;
+        height: 16rem;
         transform: scale(.9);
         position: relative;
         top: -6.5rem;
@@ -399,7 +371,6 @@ transform: scaleY(1);  */
     }
     /* section 2 */
     .section_2 {
-       
         position: relative;
         margin: -9rem 0rem;
     }
@@ -415,10 +386,9 @@ transform: scaleY(1);  */
         margin: auto -3rem;
     }
     .offer_results {
-      
         top: 4rem;
     }
-    .see_more{
+    .see_more {
         top: -3rem;
         transform: scale(.7);
     }
@@ -427,13 +397,13 @@ transform: scaleY(1);  */
         top: 18rem;
         /* height: auto; */
     }
-    .Marketplace_text1 {
+    .Marketplace_text11 {
         font-size: 2rem;
         width: 80rem;
         top: -11rem;
         left: -1rem;
     }
-    .text_payLater {
+    .text_payLater11 {
         font-size: 1.2rem;
         font-weight: 500;
         top: 3.5rem;
@@ -468,20 +438,19 @@ transform: scaleY(1);  */
         transform: scale(.75);
     }
 }
+
 @media (max-width: 950px) {
-    .averaging{
+    .averaging {
         font-size: 1.4rem;
         width: 26rem;
-     
     }
-    .home{
-   
-    }
-    .column-right1{
+    .home {}
+    .column-right1 {
         left: -2.4rem;
         width: 50rem;
     }
 }
+
 @media (max-width: 834px) {
     .section_1 {
         height: 650px;
@@ -489,14 +458,14 @@ transform: scaleY(1);  */
     .tamawal_Type88 {
         margin: 0px -2rem;
     }
-    .Business88{
+    .Business88 {
         font-size: 1rem;
         left: -1rem;
     }
-    .right_header{
+    .right_header {
         left: 0;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 8rem;
@@ -505,10 +474,8 @@ transform: scaleY(1);  */
         background-position: -7rem 0rem;
         background-size: auto 22rem;
     }
-    
     .quick-search {
         width: 37rem;
-      
     }
     .text_2 {
         line-height: 1rem;
@@ -533,15 +500,14 @@ transform: scaleY(1);  */
         display: flex;
         width: 52rem;
         /* background-color: red; */
-      z-index: 0;
+        z-index: 0;
     }
-   
     .phone {
         top: .3rem;
         left: 22rem;
         height: 28rem;
     }
-    .averaging { 
+    .averaging {
         width: 24rem;
         position: relative;
         line-height: 2rem;
@@ -557,7 +523,6 @@ transform: scaleY(1);  */
     }
     .info {
         width: 100%;
-        
     }
     .column-left1 {
         top: -12rem;
@@ -601,7 +566,6 @@ transform: scaleY(1);  */
     .section_2 {
         /* height: auto; */
         position: relative;
- 
     }
     .products_fitting {
         font-size: 1.6rem;
@@ -629,16 +593,16 @@ transform: scaleY(1);  */
     /* section3 */
     .section_3 {
         top: 26rem;
-       width: 100%;
-      margin-bottom:10rem;
+        width: 100%;
+        margin-bottom: 10rem;
     }
-    .Marketplace_text1 {
+    .Marketplace_text11 {
         font-size: 2rem;
         width: 80rem;
         top: -11rem;
         left: -1rem;
     }
-    .text_payLater {
+    .text_payLater11 {
         font-size: 1.1rem;
         font-weight: 500;
         top: 3.5rem;
@@ -650,7 +614,6 @@ transform: scaleY(1);  */
         padding: 2rem;
     }
     .marketplace_results {
-        
         position: relative;
         width: 90%;
         height: auto;
@@ -661,7 +624,6 @@ transform: scaleY(1);  */
         transform: scale(.8);
     }
     .row1 {
-      
         top: -5rem;
         left: -9rem;
         padding: 20%;
@@ -680,7 +642,7 @@ transform: scaleY(1);  */
 }
 
 @media (max-width: 768px) {
-    .sticky-top2{
+    .sticky-top2 {
         margin-bottom: -4rem;
     }
     .section_1 {
@@ -689,14 +651,14 @@ transform: scaleY(1);  */
     .tamawal_Type88 {
         margin: 0px -2rem;
     }
-    .Business88{
+    .Business88 {
         font-size: 1rem;
         left: -1rem;
     }
     .right_header88 {
         left: 57vw;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 8rem;
@@ -706,7 +668,6 @@ transform: scaleY(1);  */
         background-size: auto 34rem;
         height: auto;
     }
-  
     .quick-search {
         width: 37rem;
     }
@@ -730,13 +691,10 @@ transform: scaleY(1);  */
         left: 6rem;
     }
     .side-contents1 {
-    
-     width: 60rem;
+        width: 60rem;
         top: 6rem;
         padding: 0px;
         /* background-color: rebeccapurple; */
-  
-       
     }
     .phone {
         opacity: 0;
@@ -757,24 +715,23 @@ transform: scaleY(1);  */
         flex: 100%;
         /* background-color: red; */
         position: relative;
-     
         transform: scale(1.4);
         margin: -1.5rem 0rem;
         top: -12.2rem;
         left: -24rem;
     }
-    .info_wrapper{
+    .info_wrapper {
         /* background-color: rebeccapurple;
         float: center;
         margin: 0px auto;
         width: 20rem; */
     }
-
     .info {
         justify-content: center;
         width: 100%;
     }
-    .column-left1 { flex: 100%;
+    .column-left1 {
+        flex: 100%;
         position: relative;
         top: 14rem;
         left: 5rem;
@@ -819,7 +776,8 @@ transform: scaleY(1);  */
     }
     /* section 2 */
     .section_2 {
-        /* height: auto; */height: auto;
+        /* height: auto; */
+        height: auto;
         position: relative;
         /* margin: -20rem 0rem; */
     }
@@ -851,13 +809,13 @@ transform: scaleY(1);  */
         top: 26rem;
         line-height: ;
     }
-    .Marketplace_text1 {
+    .Marketplace_text11 {
         font-size: 1.6rem;
         width: 80rem;
         top: -11rem;
         left: -1rem;
     }
-    .text_payLater {
+    .text_payLater11 {
         font-size: .9rem;
         font-weight: 500;
         top: 3.1rem;
@@ -908,20 +866,19 @@ transform: scaleY(1);  */
     .tamawal_Type88 {
         margin: 0px -2rem;
     }
-    .Business88{
+    .Business88 {
         font-size: 1rem;
         left: -1rem;
     }
     .right_header88 {
         left: 57vw;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 8rem;
     }
     .home {
-    
         background-position: 0rem -6.5rem;
         background-size: auto 34rem;
     }
@@ -964,7 +921,6 @@ transform: scaleY(1);  */
         left: -1rem;
         padding: 0px;
         /* background-color: rebeccapurple; */
-  
     }
     .phone {
         top: .5rem;
@@ -973,7 +929,6 @@ transform: scaleY(1);  */
         opacity: 0;
     }
     .averaging {
-    
         width: 25rem;
         position: relative;
         line-height: 1.6rem;
@@ -1033,9 +988,8 @@ transform: scaleY(1);  */
     }
     /* section 2 */
     .section_2 {
-    
         position: relative;
-      height: auto;
+        height: auto;
     }
     .products_fitting {
         font-size: 1.6rem;
@@ -1046,7 +1000,7 @@ transform: scaleY(1);  */
         text-align: center;
         text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
     }
-    .heading_wrapper1{
+    .heading_wrapper1 {
         position: relative;
         /* background-color: rebeccapurple; */
         margin: 0px auto;
@@ -1055,12 +1009,11 @@ transform: scaleY(1);  */
     }
     .products_heading {
         width: 60rem;
-        transform: scale(.55); 
-       margin: -20px -7rem;
-    }  
+        transform: scale(.55);
+        margin: -20px -7rem;
+    }
     .offer_results {
-     
-        top: 2rem; 
+        top: 2rem;
     }
     .offer_wrapper {
         /* width: 71rem; */
@@ -1075,7 +1028,7 @@ transform: scaleY(1);  */
         height: auto;
         margin-bottom: 24rem;
     }
-    .Marketplace_text1 {
+    .Marketplace_text11 {
         font-size: 1.8rem;
         width: 100%;
         text-align: center;
@@ -1083,7 +1036,7 @@ transform: scaleY(1);  */
         left: -2rem;
         text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
     }
-    .text_payLater {
+    .text_payLater11 {
         font-size: .9rem;
         font-weight: 600;
         width: 100%;
@@ -1115,7 +1068,7 @@ transform: scaleY(1);  */
         top: -1rem;
     }
     .col1 {
-      justify-content: center;
+        justify-content: center;
         width: 50%;
         padding: 0px 0% 0px 0px;
     }
@@ -1134,14 +1087,14 @@ transform: scaleY(1);  */
     .tamawal_Type88 {
         margin: 0px -2rem;
     }
-    .Business88{
+    .Business88 {
         font-size: 1rem;
         left: -1rem;
     }
     .right_header88 {
         left: 57vw;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 8rem;
@@ -1150,8 +1103,7 @@ transform: scaleY(1);  */
         background-position: 0rem -10rem;
         background-size: auto 34rem;
     }
-  
-    .sticky-top2{
+    .sticky-top2 {
         margin-bottom: -7rem;
     }
     .text_2 {
@@ -1255,9 +1207,8 @@ transform: scaleY(1);  */
     }
     /* section 2 */
     .section_2 {
-    
         position: relative;
-      height: auto;
+        height: auto;
     }
     .products_fitting {
         font-size: 1.3rem;
@@ -1268,9 +1219,8 @@ transform: scaleY(1);  */
         text-align: center;
         text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
     }
-    .heading_wrapper1{
+    .heading_wrapper1 {
         position: relative;
-  
         margin: 0px auto;
         width: 19rem;
         height: 13rem;
@@ -1278,19 +1228,17 @@ transform: scaleY(1);  */
     .products_heading {
         width: 60rem;
         top: -3rem;
-        transform: scale(.4); 
-       margin: -20px -11.3rem;
-    }  
+        transform: scale(.4);
+        margin: -20px -11.3rem;
+    }
     .offer_results {
-     
-        top: 0rem; 
+        top: 0rem;
     }
     .offer_wrapper {
         /* width: 71rem; */
     }
     .see_more {
         transform: scale(.5);
-
     }
     /* section3 */
     .section_3 {
@@ -1298,7 +1246,7 @@ transform: scaleY(1);  */
         height: auto;
         margin-bottom: 24rem;
     }
-    .Marketplace_text1 {
+    .Marketplace_text11 {
         font-size: 1.8rem;
         width: 100%;
         text-align: center;
@@ -1306,7 +1254,7 @@ transform: scaleY(1);  */
         left: -2rem;
         text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
     }
-    .text_payLater {
+    .text_payLater11 {
         font-size: .9rem;
         font-weight: 600;
         width: 100%;
@@ -1338,19 +1286,20 @@ transform: scaleY(1);  */
         top: -1rem;
     }
     .col1 {
-      justify-content: center;
+        justify-content: center;
         width: 50%;
         padding: 0px 0% -90px 0px;
         margin-bottom: -7rem;
     }
-    .b4 { 
+    .b4 {
         top: 6rem;
-        left:3em;
+        left: 3em;
         /* transform: scale(.5);
        
         margin: 0px auto; */
     }
 }
+
 @media (max-width: 375px) {
     .section_1 {
         height: 786px;
@@ -1358,14 +1307,14 @@ transform: scaleY(1);  */
     .tamawal_Type88 {
         margin: 0px -2rem;
     }
-    .Business88{
+    .Business88 {
         font-size: 1rem;
         left: -1rem;
     }
     .right_header88 {
         left: 57vw;
     }
-    .bg-inner88{
+    .bg-inner88 {
         margin-top: 0rem;
         right: 17rem;
         height: 8rem;
@@ -1374,7 +1323,6 @@ transform: scaleY(1);  */
         background-position: 0rem -13rem;
         background-size: auto 34rem;
     }
-  
     /* .quick-search {
         width: 37rem;
     } */
@@ -1479,9 +1427,8 @@ transform: scaleY(1);  */
     }
     /* section 2 */
     .section_2 {
-    
         position: relative;
-      height: auto;
+        height: auto;
     }
     .products_fitting {
         font-size: 1.3rem;
@@ -1492,9 +1439,8 @@ transform: scaleY(1);  */
         text-align: center;
         text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
     }
-    .heading_wrapper1{
+    .heading_wrapper1 {
         position: relative;
-  
         margin: 0px auto;
         width: 19rem;
         height: 13rem;
@@ -1502,19 +1448,17 @@ transform: scaleY(1);  */
     .products_heading {
         width: 60rem;
         top: -3rem;
-        transform: scale(.4); 
-       margin: -20px -11.3rem;
-    }  
+        transform: scale(.4);
+        margin: -20px -11.3rem;
+    }
     .offer_results {
-     
-        top: -1rem; 
+        top: -1rem;
     }
     .offer_wrapper {
         /* width: 71rem; */
     }
     .see_more {
         transform: scale(.5);
-
     }
     /* section3 */
     .section_3 {
@@ -1522,7 +1466,7 @@ transform: scaleY(1);  */
         height: auto;
         margin-bottom: 24rem;
     }
-    .Marketplace_text1 {
+    .Marketplace_text11 {
         font-size: 1.8rem;
         width: 100%;
         text-align: center;
@@ -1530,7 +1474,7 @@ transform: scaleY(1);  */
         left: -2rem;
         text-shadow: 0px 4px 2px rgba(0, 0, 0, 0.07);
     }
-    .text_payLater {
+    .text_payLater11 {
         font-size: .9rem;
         font-weight: 600;
         width: 100%;
@@ -1563,14 +1507,14 @@ transform: scaleY(1);  */
         top: -2rem;
     }
     .col1 {
-      justify-content: center;
+        justify-content: center;
         width: 50%;
         padding: 0px 0% -90px 0px;
         margin-bottom: -7rem;
     }
-    .b4 { 
+    .b4 {
         top: 6rem;
-        left:2.7em;
+        left: 2.7em;
         /* transform: scale(.5);
        
         margin: 0px auto; */
