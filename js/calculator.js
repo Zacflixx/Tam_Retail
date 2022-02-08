@@ -1,8 +1,8 @@
  // calculator js
 
  $(document).ready(function() {
-    "use strict";
-    
+     "use strict";
+
      $("#la").bind(
          "slider:changed",
          function(event, data) {
