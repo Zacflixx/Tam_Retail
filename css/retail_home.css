@@ -453,8 +453,8 @@ height: 25.05px; */
 
 .phone {
     position: absolute;
-    top: -50.45px;
-    left: 50%;
+    top: -40.45px;
+    left: 30%;
     /* width: 1000px; */
     height: 847.56px;
 }
@@ -1121,4 +1121,84 @@ section_2 */
 .Feature_wrap2 {
     display: flex;
     margin: -2.3rem .6rem;
+}
+
+
+/* section 3 */
+
+.heroImg1 {
+    position: relative;
+    left: 10%;
+}
+
+.categories_box {
+    position: relative;
+    top: -4rem;
+    left: 2rem;
+}
+
+.cat_Wrapper {
+    background-color: rgb(241, 241, 241);
+    height: 9rem;
+    width: 14rem;
+    border-width: 20px;
+    border-color: #012558c4;
+    border-radius: .3rem;
+}
+
+.cat_Wrapper2 {
+    position: relative;
+    left: 2rem;
+    background-color: rgb(241, 241, 241);
+    height: 9rem;
+    width: 14rem;
+    border-width: 20px;
+    border-color: #012558c4;
+    border-radius: .3rem;
+}
+
+.cat_type_text {
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15.4091px;
+    line-height: 9px;
+    margin: 1rem 1rem;
+    letter-spacing: 0.200677px;
+    color: #1F1645;
+}
+
+.Feature_Txt4 {
+    font-size: 1rem;
+    width: 10rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18.2122px;
+    line-height: 21px;
+    color: #474747;
+}
+
+.arrow1 {
+    position: relative;
+    top: 4rem;
+    left: 1rem;
+}
+
+.catImage2 {
+    position: absolute;
+    top: 2.3rem;
+    right: 0px;
+}
+
+.guyOffer {
+    position: relative;
+    left: 5%;
+    top: 1rem;
+}
+
+.cleckBlue {
+    height: 1.4rem;
+    position: relative;
+    margin-right: .5rem;
 }
