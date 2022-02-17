@@ -46,7 +46,7 @@
 
 </head>
 
-<body>
+<body style="font-family: poppins;">
     <!-- Header-->
     <div class="sticky-top2 ">
         <!-- /.top-bar -->
@@ -142,20 +142,19 @@
         </div>
         </div>
         </nav>
-        <!-- <img src="/images/Desktop - 1.svg" class="bg-stripes" alt="" /> -->
+        <img src="/images/Desktop - 1.svg" class="bg-stripes" alt="" />
     </div>
-    <img src="./images/Desktop - 1.svg" class="bg-stripes" alt="">
 
 
 
-    <div class="page-header" style="background-color: reds;">
+    <div class="page-header">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
                             <li><a href="index.html">Home</a></li>
-                            <li class="active ">Loan Calculator</li>
+                            <li class="active">Loan Eligibility Calculator</li>
                         </ol>
                     </div>
                 </div>
@@ -163,11 +162,10 @@
                     <div class="bg-white pinside30">
                         <div class="row align-items-center">
                             <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
-                                <h1 class="page-title Loan_Cal_Header">Loan Calculator</h1>
+                                <h1 class="page-title Loan_Cal_Header">Loan Eligibility</h1>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
-                                <div class="btn-action"> <a href="#!" class="btn btn-secondary" style="
-                                    font-family: poppins; line-height: 1rem;">Apply</a> </div>
+                                <div class="btn-action"> <a href="#!" class="btn btn-secondary" style="font-family: poppins;">Apply</a> </div>
                             </div>
                         </div>
                     </div>
@@ -190,58 +188,87 @@
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="wrapper-content bg-white p-3 p-lg-5">
-                    <div class="row">
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="bg-light bg-white p-3 p-lg-5 outline">
-                                        <span>Loan Amount is </span>
-                                        <strong>
-                                            <span class="" id="la_value">30000</span></strong>
-                                        <input type="text" data-slider="true" value="30000" data-slider-range="100000,5000000" data-slider-step="10000" data-slider-snap="true" id="la">
-                                        <hr>
-                                        <span>No. of Month is <strong>
-                                                <span class="" id="nm_value">30</span> </strong>
-                                        </span>
-                                        <input type="text" data-slider="true" value="30" data-slider-range="120,360" data-slider-step="1" data-slider-snap="true" id="nm">
-                                        <hr>
-                                        <span>Rate of Interest [ROI] is <strong><span class="" id="roi_value">10</span>
-                                        </strong>
-                                        </span>
-                                        <input type="text" data-slider="true" value="10.2" data-slider-range="8,16" data-slider-step=".05" data-slider-snap="true" id="roi">
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="row">
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline">
-                                                Monthly EMI
-                                                <h2 id='emi' class="mb-0"></h2>
+                    <div class="loan-eligibility-block">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                                <h2 class="mb20">Check Your eligibility for loans.</h2>
+                                <div class="row">
+                                    <form name="formval2" class="form-horizontal loan-eligibility-form">
+                                        <div class="form-group">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                                <label for="loan" class="control-label">Home Loan Required:</label>
+                                                <div class="input-group">
+                                                    <div class="input-group-prepend">
+                                                        <span class="input-group-text">₹</span>
+                                                    </div>
+                                                    <input type="number" class="form-control input-sm" id="loan" name="pr_amt2" placeholder="Enter Loan Amount">
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline">
-                                                Total Interest
-                                                <h2 id='tbl_int' class="mb-0"></h2>
+                                        <div class="form-group">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                                <label for="income" class="control-label">Net income per month</label>
+                                                <div class="input-group">
+                                                    <div class="input-group-prepend">
+                                                        <span class="input-group-text">₹</span>
+                                                    </div>
+                                                    <input type="number" class="form-control" id="income" name="NetIncome" placeholder="Excluding LTA and Medical allowances">
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline"> Payable Amount
-                                                <h2 id='tbl_full' class="mb-0"></h2>
+                                        <div class="form-group">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                                <label for="commitments" class="control-label">Existing loan commitments</label>
+                                                <div class="input-group">
+                                                    <div class="input-group-prepend">
+                                                        <span class="input-group-text">₹</span>
+                                                    </div>
+                                                    <input type="number" class="form-control" id="commitments" Name="ExLoan" placeholder="(per month)">
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <div class="bg-light p-3 outline">
-                                                Interest Percentage
-                                                <h2 id='tbl_int_pge' class="mb-0"></h2>
+                                        <div class="form-group">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                                <label for="tenure" class="control-label">Loan Tenure</label>
+                                                <input type="number" class="form-control" id="tenure" name="period2" placeholder="(in years)">
                                             </div>
                                         </div>
-                                    </div>
+                                        <div class="form-group">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                                <label for="rateofinterest" class="control-label">Rate of Interest</label>
+                                                <div class="input-group">
+                                                    <div class="input-group-prepend">
+                                                        <span class="input-group-text">%</span>
+                                                    </div>
+                                                    <input type="number" class="form-control" id="rateofinterest" value="9.5" name="int_rate2">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                                <button type="button" class="btn btn-secondary elig_button" onclick="eligiable()">Check Eligibility</button>
+                                                <br><button type="reset" class="btn btn-primary elig_Reset ">Reset All</button>
+                                            </div>
+                                        </div>
+
+                                    </form>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div id="loantable" class='table table-striped table-bordered loantable table-responsive'></div>
+                            <div class="col-lg-6">
+                                <h2 class="mb40">How much loan you are eligible for?</h2>
+                                <div class="loan-eligibility-info">
+                                    <form name="formval3" class="">
+                                        <div class="form-group">
+                                            <output class="col-lg-12 col-sm-12 col-md-12 col-12 eligibility-text elig_result" name="field13">
+                                            </output>
+                                            <output class="col-lg-12 col-sm-12 col-md-12 col-12 eligibility-amount elig_result" name="field11"></output>
+                                        </div>
+                                        <div class="form-group">
+                                            <output class="col-lg-12 col-sm-12 col-md-12 col-12 eligibility-text elig_result" name="field12"></output>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -336,6 +363,8 @@
 
 
     </div>
+    <script src="js/calculator.js"></script>
+
     <script src="./js/loan-elgiblity.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
@@ -364,8 +393,7 @@
     <script src="./js/newSlide.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/back-to-top.js"></script>
-    <script src="js/simple-slider.js"></script>
-    <script src="js/calculator.js"></script>
+
     <script src="./js/main.js"></script>
     <script src="./js/home.js"></script>
 </body>

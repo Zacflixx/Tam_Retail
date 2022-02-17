@@ -8,12 +8,9 @@
     text-decoration: none;
 }
 
-html {
-  
-}
+html {}
 
 body {
-  
     /* widht: calc(100% - 20px);
     height: calc(50% + 10px); */
     /* overflow-y: hidden; 
@@ -178,6 +175,7 @@ section .title::after {
     transform: translateX(-50%);
 }
 
+
 /* 
 /* navbar styling */
 
@@ -232,9 +230,9 @@ section .title::after {
     color: #23555e;
 }
 
-.navbar.sticky .menu li a:hover {} */
+.navbar.sticky .menu li a:hover {}
 
-
+*/
 /* menu btn styling */
 
 .menu-btn {
@@ -273,7 +271,6 @@ section .title::after {
 }
 
 .section_1 {
-    background: linear-gradient(252.43deg, #134491 9.89%, #1A73CB 96.03%);
     height: 1000px;
     width: 100%;
 }
@@ -290,7 +287,6 @@ section .title::after {
 
 /* home section styling */
 
-
 .bg-inner {
     position: fixed;
     margin-top: 0px;
@@ -302,7 +298,6 @@ section .title::after {
     /* background-color: #0C397F; */
     /* color: #fff; */
     position: absolute;
-   
     background-repeat: no-repeat, repeat;
     /* background-position: fixed; */
     background-size: auto 38.5rem;
@@ -786,9 +781,7 @@ height: 25.05px; */
 /*  
 section_2 */
 
-.section_2 {
-    background-color: white;
-}
+.section_2 {}
 
 .products_fitting {
     font-size: 3rem;
@@ -827,8 +820,6 @@ section_2 */
     /* background-color: rgb(205, 205, 224, .15); */
     width: 100%;
     height: auto;
-    
-    
     border-radius: 20px;
     opacity: ;
 }
@@ -840,8 +831,6 @@ section_2 */
 .offer_wrapper {
     position: relative;
     width: 100%;
-   
-   
     height: 221.98px;
     background: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.08);
@@ -851,7 +840,6 @@ section_2 */
 
 .offer_content_wrapper {
     display: flex;
-    
 }
 
 .offer_column {
@@ -1348,7 +1336,9 @@ d
 /* footer section styling */
 
 
-/* responsive media query start */@media (min-width: 568px) {
+/* responsive media query start */
+
+@media (min-width: 568px) {
     .container {
         max-width: 540px;
     }
@@ -10542,7 +10532,8 @@ body.direction-rtl .user-menu span {
 
 .apply__title {
     position: relative;
-    color: #303246c5;;
+    color: #303246c5;
+    ;
     font: 2rem "poppins";
     font-size: 1rem;
     font-weight: 600;
@@ -10649,6 +10640,6 @@ body.direction-rtl .user-menu span {
     transform: rotate(45deg);
 }
 
-h3{
+h3 {
     font-family: poppins;
 }

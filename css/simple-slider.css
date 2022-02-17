@@ -285,6 +285,8 @@ margin space
 
 .mb20 {
     margin-bottom: 20px;
+    color: rgba(1, 3, 17, 0.712);
+    text-shadow: none;
 }
 
 .mb30 {
@@ -293,6 +295,8 @@ margin space
 
 .mb40 {
     margin-bottom: 40px;
+    color: rgba(1, 3, 17, 0.712);
+    text-shadow: none;
 }
 
 .mb60 {
@@ -4598,4 +4602,24 @@ Landing Page Template
 .Loan_Cal_Header {
     color: #023975;
     font-family: poppins;
+}
+
+.elig_button {
+    width: 100%;
+    font-family: poppins;
+}
+
+.elig_Reset {
+    background-color: transparent;
+    width: 100%;
+    font-family: poppins;
+    border-width: 0px;
+    color: #000000;
+}
+
+.elig_result {
+    color: #0a2759;
+    font-family: poppins;
+    font-weight: 500;
+    opacity: .6;
 }
