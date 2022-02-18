@@ -454,7 +454,7 @@ height: 25.05px; */
 .phone {
     position: absolute;
     top: -40.45px;
-    left: 30%;
+    left: 50%;
     /* width: 1000px; */
     height: 847.56px;
 }
@@ -1010,6 +1010,11 @@ section_2 */
 
 /* New Prototype */
 
+.hr_New {
+    position: relative;
+    top: -3rem;
+}
+
 .fit_Text {
     position: relative;
     margin-top: 2rem;
@@ -1017,7 +1022,9 @@ section_2 */
 }
 
 .offers_section1 {
-    padding: 5%;
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
@@ -1131,13 +1138,36 @@ section_2 */
     left: 10%;
 }
 
-.categories_box {
+.categoryRow1 {
+    display: flex;
+    margin: 15.3rem 3rem;
+}
+
+.categoryRow2 {
+    display: flex;
+    margin-left: 3rem;
     position: relative;
-    top: -4rem;
+    top: -15rem
+}
+
+.FeatureFlex1 {
+    display: flex;
+}
+
+.FeatureFlex2 {
+    display: flex;
+    margin-left: 1rem;
+}
+
+.categories_box {
+    display: flex;
+    position: relative;
+    top: -0rem;
     left: 2rem;
 }
 
 .cat_Wrapper {
+    position: relative;
     background-color: rgb(241, 241, 241);
     height: 9rem;
     width: 14rem;
